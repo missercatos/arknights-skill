@@ -1,0 +1,3284 @@
+{
+  "title": "明日方舟角色AI技能设定索引",
+  "total_operators": 468,
+  "generated_by": "ArknightsGameData analysis script",
+  "format": "Each file contains comprehensive AI personality/skill data for one operator",
+  "operators": [
+    {
+      "id": "token_10005_mgllan_drone2",
+      "name": "龙腾.L",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "龙腾.L_token_10005_mgllan_drone2.json"
+    },
+    {
+      "id": "token_10005_mgllan_drone1",
+      "name": "龙腾.F",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "龙腾.F_token_10005_mgllan_drone1.json"
+    },
+    {
+      "id": "token_10005_mgllan_drone3",
+      "name": "龙腾.A",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "龙腾.A_token_10005_mgllan_drone3.json"
+    },
+    {
+      "id": "char_4046_ebnhlz",
+      "name": "黑键",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "黑键_char_4046_ebnhlz.json"
+    },
+    {
+      "id": "char_340_shwaz",
+      "name": "黑",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "黑_char_340_shwaz.json"
+    },
+    {
+      "id": "char_2025_shu",
+      "name": "黍",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "黍_char_2025_shu.json"
+    },
+    {
+      "id": "token_10040_siege2_vlion",
+      "name": "黄金盟誓",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "黄金盟誓_token_10040_siege2_vlion.json"
+    },
+    {
+      "id": "char_248_mgllan",
+      "name": "麦哲伦",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "麦哲伦_char_248_mgllan.json"
+    },
+    {
+      "id": "char_4055_bgsnow",
+      "name": "鸿雪",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "鸿雪_char_4055_bgsnow.json"
+    },
+    {
+      "id": "char_4134_cetsyr",
+      "name": "魔王",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "魔王_char_4134_cetsyr.json"
+    },
+    {
+      "id": "token_10035_wisdel_wward",
+      "name": "魂灵之影",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "魂灵之影_token_10035_wisdel_wward.json"
+    },
+    {
+      "id": "token_10031_swire2_gdtrap",
+      "name": "香槟炸弹",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "香槟炸弹_token_10031_swire2_gdtrap.json"
+    },
+    {
+      "id": "token_10057_svash2_eagle1",
+      "name": "风雪之眼",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "风雪之眼_token_10057_svash2_eagle1.json"
+    },
+    {
+      "id": "token_10057_svash2_eagle2",
+      "name": "风雪之眼",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "风雪之眼_token_10057_svash2_eagle2.json"
+    },
+    {
+      "id": "token_10057_svash2_eagle3",
+      "name": "风雪之眼",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "风雪之眼_token_10057_svash2_eagle3.json"
+    },
+    {
+      "id": "char_222_bpipe",
+      "name": "风笛",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "风笛_char_222_bpipe.json"
+    },
+    {
+      "id": "char_617_sharp2",
+      "name": "领主·Sharp",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "领主·Sharp_char_617_sharp2.json"
+    },
+    {
+      "id": "char_4027_heyak",
+      "name": "霍尔海雅",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "霍尔海雅_char_4027_heyak.json"
+    },
+    {
+      "id": "token_10033_ela_grzmot",
+      "name": "雷鸣地雷",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "雷鸣地雷_token_10033_ela_grzmot.json"
+    },
+    {
+      "id": "char_4010_etlchi",
+      "name": "隐德来希",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "隐德来希_char_4010_etlchi.json"
+    },
+    {
+      "id": "char_010_chen",
+      "name": "陈",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "陈_char_010_chen.json"
+    },
+    {
+      "id": "char_4132_ascln",
+      "name": "阿斯卡纶",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "阿斯卡纶_char_4132_ascln.json"
+    },
+    {
+      "id": "char_225_haak",
+      "name": "阿",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "阿_char_225_haak.json"
+    },
+    {
+      "id": "char_147_shining",
+      "name": "闪灵",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "闪灵_char_147_shining.json"
+    },
+    {
+      "id": "token_10007_phatom_twin",
+      "name": "镜中虚影",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "镜中虚影_token_10007_phatom_twin.json"
+    },
+    {
+      "id": "char_4116_blkkgt",
+      "name": "锏",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "锏_char_4116_blkkgt.json"
+    },
+    {
+      "id": "char_172_svrash",
+      "name": "银灰",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "银灰_char_172_svrash.json"
+    },
+    {
+      "id": "char_358_lisa",
+      "name": "铃兰",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "铃兰_char_358_lisa.json"
+    },
+    {
+      "id": "token_10027_ironmn_pile3",
+      "name": "铁钳号·原型机",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "铁钳号·原型机_token_10027_ironmn_pile3.json"
+    },
+    {
+      "id": "token_10050_monstr_prosts",
+      "name": "重构体",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "重构体_token_10050_monstr_prosts.json"
+    },
+    {
+      "id": "char_2024_chyue",
+      "name": "重岳",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "重岳_char_2024_chyue.json"
+    },
+    {
+      "id": "char_608_acpion",
+      "name": "郁金香",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "郁金香_char_608_acpion.json"
+    },
+    {
+      "id": "char_4202_haruka",
+      "name": "遥",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "遥_char_4202_haruka.json"
+    },
+    {
+      "id": "char_4133_logos",
+      "name": "逻各斯",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "逻各斯_char_4133_logos.json"
+    },
+    {
+      "id": "token_10012_rosmon_shield",
+      "name": "迷迭香的战术装备",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "迷迭香的战术装备_token_10012_rosmon_shield.json"
+    },
+    {
+      "id": "char_391_rosmon",
+      "name": "迷迭香",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "迷迭香_char_391_rosmon.json"
+    },
+    {
+      "id": "token_10055_phatm2_mndclv",
+      "name": "迷狂牢笼",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "迷狂牢笼_token_10055_phatm2_mndclv.json"
+    },
+    {
+      "id": "char_430_fartth",
+      "name": "远牙",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "远牙_char_430_fartth.json"
+    },
+    {
+      "id": "char_188_helage",
+      "name": "赫拉格",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "赫拉格_char_188_helage.json"
+    },
+    {
+      "id": "char_4088_hodrer",
+      "name": "赫德雷",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "赫德雷_char_4088_hodrer.json"
+    },
+    {
+      "id": "token_10052_radian_tower2",
+      "name": "赛柯",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "赛柯_token_10052_radian_tower2.json"
+    },
+    {
+      "id": "char_4037_demetr",
+      "name": "贝洛内",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "贝洛内_char_4037_demetr.json"
+    },
+    {
+      "id": "char_4098_vvana",
+      "name": "薇薇安娜",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "薇薇安娜_char_4098_vvana.json"
+    },
+    {
+      "id": "char_4193_lemuen",
+      "name": "蕾缪安",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "蕾缪安_char_4193_lemuen.json"
+    },
+    {
+      "id": "char_300_phenxi",
+      "name": "菲亚梅塔",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "菲亚梅塔_char_300_phenxi.json"
+    },
+    {
+      "id": "char_4117_ray",
+      "name": "莱伊",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "莱伊_char_4117_ray.json"
+    },
+    {
+      "id": "char_213_mostma",
+      "name": "莫斯提马",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "莫斯提马_char_213_mostma.json"
+    },
+    {
+      "id": "char_180_amgoat",
+      "name": "艾雅法拉",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "艾雅法拉_char_180_amgoat.json"
+    },
+    {
+      "id": "char_4123_ela",
+      "name": "艾拉",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "艾拉_char_4123_ela.json"
+    },
+    {
+      "id": "char_4009_irene",
+      "name": "艾丽妮",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "艾丽妮_char_4009_irene.json"
+    },
+    {
+      "id": "char_103_angel",
+      "name": "能天使",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "能天使_char_103_angel.json"
+    },
+    {
+      "id": "char_322_lmlee",
+      "name": "老鲤",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "老鲤_char_322_lmlee.json"
+    },
+    {
+      "id": "char_249_mlyss",
+      "name": "缪尔赛思",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "缪尔赛思_char_249_mlyss.json"
+    },
+    {
+      "id": "char_4056_titi",
+      "name": "缇缇",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "缇缇_char_4056_titi.json"
+    },
+    {
+      "id": "char_4226_veen",
+      "name": "维伊",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "维伊_char_4226_veen.json"
+    },
+    {
+      "id": "char_332_archet",
+      "name": "空弦",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "空弦_char_332_archet.json"
+    },
+    {
+      "id": "char_4204_mantra",
+      "name": "真言",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "真言_char_4204_mantra.json"
+    },
+    {
+      "id": "token_10027_ironmn_pile1",
+      "name": "白铁™多功能平台",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "白铁™多功能平台_token_10027_ironmn_pile1.json"
+    },
+    {
+      "id": "token_10027_ironmn_pile2",
+      "name": "白铁™多功能平台",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "白铁™多功能平台_token_10027_ironmn_pile2.json"
+    },
+    {
+      "id": "char_4072_ironmn",
+      "name": "白铁",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "白铁_char_4072_ironmn.json"
+    },
+    {
+      "id": "char_4195_radian",
+      "name": "电弧",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "电弧_char_4195_radian.json"
+    },
+    {
+      "id": "char_423_blemsh",
+      "name": "瑕光",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "瑕光_char_423_blemsh.json"
+    },
+    {
+      "id": "char_479_sleach",
+      "name": "琴柳",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "琴柳_char_479_sleach.json"
+    },
+    {
+      "id": "char_4141_marcil",
+      "name": "玛露西尔",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "玛露西尔_char_4141_marcil.json"
+    },
+    {
+      "id": "char_4064_mlynar",
+      "name": "玛恩纳",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "玛恩纳_char_4064_mlynar.json"
+    },
+    {
+      "id": "token_10028_vigil_wolf",
+      "name": "狼群",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "狼群_token_10028_vigil_wolf.json"
+    },
+    {
+      "id": "token_10065_demetr_dmtpos",
+      "name": "牵绊",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "牵绊_token_10065_demetr_dmtpos.json"
+    },
+    {
+      "id": "char_017_huang",
+      "name": "煌",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "煌_char_017_huang.json"
+    },
+    {
+      "id": "char_420_flamtl",
+      "name": "焰尾",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "焰尾_char_420_flamtl.json"
+    },
+    {
+      "id": "char_206_gnosis",
+      "name": "灵知",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "灵知_char_206_gnosis.json"
+    },
+    {
+      "id": "char_456_ash",
+      "name": "灰烬",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "灰烬_char_456_ash.json"
+    },
+    {
+      "id": "char_377_gdglow",
+      "name": "澄闪",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "澄闪_char_377_gdglow.json"
+    },
+    {
+      "id": "char_400_weedy",
+      "name": "温蒂",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "温蒂_char_400_weedy.json"
+    },
+    {
+      "id": "char_4042_lumen",
+      "name": "流明",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "流明_char_4042_lumen.json"
+    },
+    {
+      "id": "token_10030_mlyss_wtrman",
+      "name": "流形",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "流形_token_10030_mlyss_wtrman.json"
+    },
+    {
+      "id": "char_311_mudrok",
+      "name": "泥岩",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "泥岩_char_311_mudrok.json"
+    },
+    {
+      "id": "token_10034_ray_sndbst",
+      "name": "沙地兽",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "沙地兽_token_10034_ray_sndbst.json"
+    },
+    {
+      "id": "char_437_mizuki",
+      "name": "水月",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "水月_char_437_mizuki.json"
+    },
+    {
+      "id": "char_450_necras",
+      "name": "死芒",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "死芒_char_450_necras.json"
+    },
+    {
+      "id": "token_10008_cqbw_box",
+      "name": "此面向敌",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "此面向敌_token_10008_cqbw_box.json"
+    },
+    {
+      "id": "char_4011_lessng",
+      "name": "止颂",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "止颂_char_4011_lessng.json"
+    },
+    {
+      "id": "char_474_glady",
+      "name": "歌蕾蒂娅",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "歌蕾蒂娅_char_474_glady.json"
+    },
+    {
+      "id": "char_416_zumama",
+      "name": "森蚺",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "森蚺_char_416_zumama.json"
+    },
+    {
+      "id": "char_293_thorns",
+      "name": "棘刺",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "棘刺_char_293_thorns.json"
+    },
+    {
+      "id": "token_10064_wang_stone1",
+      "name": "棋子",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "棋子_token_10064_wang_stone1.json"
+    },
+    {
+      "id": "token_10053_radian_tower3",
+      "name": "桑特拉",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "桑特拉_token_10053_radian_tower3.json"
+    },
+    {
+      "id": "char_4080_lin",
+      "name": "林",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "林_char_4080_lin.json"
+    },
+    {
+      "id": "token_10032_jesca2_jckshd",
+      "name": "机动盾牌",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "机动盾牌_token_10032_jesca2_jckshd.json"
+    },
+    {
+      "id": "token_10054_phatm2_encdool",
+      "name": "本能的召唤",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "本能的召唤_token_10054_phatm2_encdool.json"
+    },
+    {
+      "id": "char_2027_wang",
+      "name": "望",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "望_char_2027_wang.json"
+    },
+    {
+      "id": "char_136_hsguma",
+      "name": "星熊",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "星熊_char_136_hsguma.json"
+    },
+    {
+      "id": "char_197_poca",
+      "name": "早露",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "早露_char_197_poca.json"
+    },
+    {
+      "id": "token_10024_ebnhlz_rcube",
+      "name": "旧日残影",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "旧日残影_token_10024_ebnhlz_rcube.json"
+    },
+    {
+      "id": "token_10017_skadi2_dedant",
+      "name": "斯卡蒂的海嗣",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "斯卡蒂的海嗣_token_10017_skadi2_dedant.json"
+    },
+    {
+      "id": "char_263_skadi",
+      "name": "斯卡蒂",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "斯卡蒂_char_263_skadi.json"
+    },
+    {
+      "id": "char_4065_judge",
+      "name": "斥罪",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "斥罪_char_4065_judge.json"
+    },
+    {
+      "id": "char_2012_typhon",
+      "name": "提丰",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "提丰_char_2012_typhon.json"
+    },
+    {
+      "id": "char_112_siege",
+      "name": "推进之王",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "推进之王_char_112_siege.json"
+    },
+    {
+      "id": "token_10066_closur_ourbase",
+      "name": "指挥中心",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "指挥中心_token_10066_closur_ourbase.json"
+    },
+    {
+      "id": "token_10056_angel2_target",
+      "name": "投递坐标",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "投递坐标_token_10056_angel2_target.json"
+    },
+    {
+      "id": "token_10051_radian_tower1",
+      "name": "戴乌",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "戴乌_token_10051_radian_tower1.json"
+    },
+    {
+      "id": "token_10068_kalts2_mtship",
+      "name": "战术锚点",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "战术锚点_token_10068_kalts2_mtship.json"
+    },
+    {
+      "id": "token_10043_necras_skeltn",
+      "name": "悲叹的仆役",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "悲叹的仆役_token_10043_necras_skeltn.json"
+    },
+    {
+      "id": "char_4026_vulpis",
+      "name": "忍冬",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "忍冬_char_4026_vulpis.json"
+    },
+    {
+      "id": "char_1502_crosly",
+      "name": "弑君者",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "弑君者_char_1502_crosly.json"
+    },
+    {
+      "id": "char_472_pasngr",
+      "name": "异客",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "异客_char_472_pasngr.json"
+    },
+    {
+      "id": "token_10003_cgbird_bird",
+      "name": "幻影",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "幻影_token_10003_cgbird_bird.json"
+    },
+    {
+      "id": "char_2014_nian",
+      "name": "年",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "年_char_2014_nian.json"
+    },
+    {
+      "id": "char_485_pallas",
+      "name": "帕拉斯",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "帕拉斯_char_485_pallas.json"
+    },
+    {
+      "id": "char_4121_zuole",
+      "name": "左乐",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "左乐_char_4121_zuole.json"
+    },
+    {
+      "id": "token_10009_weedy_cannon",
+      "name": "工程蓄水炮",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "工程蓄水炮_token_10009_weedy_cannon.json"
+    },
+    {
+      "id": "char_362_saga",
+      "name": "嵯峨",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "嵯峨_char_362_saga.json"
+    },
+    {
+      "id": "char_264_f12yin",
+      "name": "山",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "山_char_264_f12yin.json"
+    },
+    {
+      "id": "char_291_aglina",
+      "name": "安洁莉娜",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "安洁莉娜_char_291_aglina.json"
+    },
+    {
+      "id": "char_4212_nasti",
+      "name": "娜斯提",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "娜斯提_char_4212_nasti.json"
+    },
+    {
+      "id": "char_4138_narant",
+      "name": "娜仁图亚",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "娜仁图亚_char_4138_narant.json"
+    },
+    {
+      "id": "char_4146_nymph",
+      "name": "妮芙",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "妮芙_char_4146_nymph.json"
+    },
+    {
+      "id": "char_179_cgbird",
+      "name": "夜莺",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "夜莺_char_179_cgbird.json"
+    },
+    {
+      "id": "token_10029_slent2_protrb",
+      "name": "夜灯",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "夜灯_token_10029_slent2_protrb.json"
+    },
+    {
+      "id": "char_4048_doroth",
+      "name": "多萝西",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "多萝西_char_4048_doroth.json"
+    },
+    {
+      "id": "char_2015_dusk",
+      "name": "夕",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "夕_char_2015_dusk.json"
+    },
+    {
+      "id": "char_202_demkni",
+      "name": "塞雷娅",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "塞雷娅_char_202_demkni.json"
+    },
+    {
+      "id": "char_245_cello",
+      "name": "塑心",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "塑心_char_245_cello.json"
+    },
+    {
+      "id": "char_4039_horn",
+      "name": "号角",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "号角_char_4039_horn.json"
+    },
+    {
+      "id": "char_350_surtr",
+      "name": "史尔特尔",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "史尔特尔_char_350_surtr.json"
+    },
+    {
+      "id": "char_4228_closur",
+      "name": "可露希尔",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "可露希尔_char_4228_closur.json"
+    },
+    {
+      "id": "char_426_billro",
+      "name": "卡涅利安",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "卡涅利安_char_426_billro.json"
+    },
+    {
+      "id": "char_2013_cerber",
+      "name": "刻俄柏",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "刻俄柏_char_2013_cerber.json"
+    },
+    {
+      "id": "char_003_kalts",
+      "name": "凯尔希",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "凯尔希_char_003_kalts.json"
+    },
+    {
+      "id": "token_10025_doroth_recttp",
+      "name": "共振装置",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "共振装置_token_10025_doroth_recttp.json"
+    },
+    {
+      "id": "char_250_phatom",
+      "name": "傀影",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "傀影_char_250_phatom.json"
+    },
+    {
+      "id": "char_4194_rmixer",
+      "name": "信仰搅拌机",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "信仰搅拌机_char_4194_rmixer.json"
+    },
+    {
+      "id": "token_10058_sbell2_icetgt",
+      "name": "保护目标（冻结状态）",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "保护目标（冻结状态）_token_10058_sbell2_icetgt.json"
+    },
+    {
+      "id": "char_4058_pepe",
+      "name": "佩佩",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "佩佩_char_4058_pepe.json"
+    },
+    {
+      "id": "char_2026_yu",
+      "name": "余",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "余_char_2026_yu.json"
+    },
+    {
+      "id": "char_427_vigil",
+      "name": "伺夜",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "伺夜_char_427_vigil.json"
+    },
+    {
+      "id": "char_134_ifrit",
+      "name": "伊芙利特",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "伊芙利特_char_134_ifrit.json"
+    },
+    {
+      "id": "char_4087_ines",
+      "name": "伊内丝",
+      "rarity": "☆6",
+      "profession": "先锋",
+      "file": "伊内丝_char_4087_ines.json"
+    },
+    {
+      "id": "char_2023_ling",
+      "name": "令",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "令_char_2023_ling.json"
+    },
+    {
+      "id": "token_10039_ulpia_block",
+      "name": "从不混淆的方向",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "从不混淆的方向_token_10039_ulpia_block.json"
+    },
+    {
+      "id": "char_4082_qiubai",
+      "name": "仇白",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "仇白_char_4082_qiubai.json"
+    },
+    {
+      "id": "char_4145_ulpia",
+      "name": "乌尔比安",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "乌尔比安_char_4145_ulpia.json"
+    },
+    {
+      "id": "char_4182_oblvns",
+      "name": "丰川祥子",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "丰川祥子_char_4182_oblvns.json"
+    },
+    {
+      "id": "token_10020_ling_soul2",
+      "name": "“逍遥”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“逍遥”_token_10020_ling_soul2.json"
+    },
+    {
+      "id": "token_10059_nasti_nstdef",
+      "name": "“质检专员”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“质检专员”_token_10059_nasti_nstdef.json"
+    },
+    {
+      "id": "token_10019_nearl2_sword",
+      "name": "“耀阳”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“耀阳”_token_10019_nearl2_sword.json"
+    },
+    {
+      "id": "token_10060_nasti_nstchr",
+      "name": "“监工专员”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“监工专员”_token_10060_nasti_nstchr.json"
+    },
+    {
+      "id": "token_10020_ling_soul1",
+      "name": "“清平”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“清平”_token_10020_ling_soul1.json"
+    },
+    {
+      "id": "token_10026_bgsnow_subbow",
+      "name": "“打字机”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“打字机”_token_10026_bgsnow_subbow.json"
+    },
+    {
+      "id": "token_10020_ling_soul3",
+      "name": "“弦惊”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“弦惊”_token_10020_ling_soul3.json"
+    },
+    {
+      "id": "token_10061_nasti_nstbld",
+      "name": "“应急承重小组”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“应急承重小组”_token_10061_nasti_nstbld.json"
+    },
+    {
+      "id": "token_10015_dusk_drgn",
+      "name": "“小自在”",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "“小自在”_token_10015_dusk_drgn.json"
+    },
+    {
+      "id": "char_113_cqbw",
+      "name": "W",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "W_char_113_cqbw.json"
+    },
+    {
+      "id": "char_613_acmedc",
+      "name": "Touch",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "Touch_char_613_acmedc.json"
+    },
+    {
+      "id": "char_611_acnipe",
+      "name": "Stormeye",
+      "rarity": "☆6",
+      "profession": "狙击",
+      "file": "Stormeye_char_611_acnipe.json"
+    },
+    {
+      "id": "char_609_acguad",
+      "name": "Sharp",
+      "rarity": "☆6",
+      "profession": "近卫",
+      "file": "Sharp_char_609_acguad.json"
+    },
+    {
+      "id": "char_614_acsupo",
+      "name": "Raidian",
+      "rarity": "☆6",
+      "profession": "辅助",
+      "file": "Raidian_char_614_acsupo.json"
+    },
+    {
+      "id": "char_612_accast",
+      "name": "Pith",
+      "rarity": "☆6",
+      "profession": "术师",
+      "file": "Pith_char_612_accast.json"
+    },
+    {
+      "id": "char_4179_monstr",
+      "name": "Mon3tr",
+      "rarity": "☆6",
+      "profession": "医疗",
+      "file": "Mon3tr_char_4179_monstr.json"
+    },
+    {
+      "id": "token_10002_kalts_mon3tr",
+      "name": "Mon3tr",
+      "rarity": "☆6",
+      "profession": "TOKEN",
+      "file": "Mon3tr_token_10002_kalts_mon3tr.json"
+    },
+    {
+      "id": "char_615_acspec",
+      "name": "Misery",
+      "rarity": "☆6",
+      "profession": "特种",
+      "file": "Misery_char_615_acspec.json"
+    },
+    {
+      "id": "char_610_acfend",
+      "name": "Mechanist",
+      "rarity": "☆6",
+      "profession": "重装",
+      "file": "Mechanist_char_610_acfend.json"
+    },
+    {
+      "id": "char_486_takila",
+      "name": "龙舌兰",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "龙舌兰_char_486_takila.json"
+    },
+    {
+      "id": "char_4144_chilc",
+      "name": "齐尔查克",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "齐尔查克_char_4144_chilc.json"
+    },
+    {
+      "id": "char_241_panda",
+      "name": "食铁兽",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "食铁兽_char_241_panda.json"
+    },
+    {
+      "id": "char_4222_taraxa",
+      "name": "风絮",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "风絮_char_4222_taraxa.json"
+    },
+    {
+      "id": "char_4016_kazema",
+      "name": "风丸",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "风丸_char_4016_kazema.json"
+    },
+    {
+      "id": "char_265_sophia",
+      "name": "鞭刃",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "鞭刃_char_265_sophia.json"
+    },
+    {
+      "id": "char_488_buildr",
+      "name": "青枳",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "青枳_char_488_buildr.json"
+    },
+    {
+      "id": "char_458_rfrost",
+      "name": "霜华",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "霜华_char_458_rfrost.json"
+    },
+    {
+      "id": "char_107_liskam",
+      "name": "雷蛇",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "雷蛇_char_107_liskam.json"
+    },
+    {
+      "id": "char_383_snsant",
+      "name": "雪雉",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "雪雉_char_383_snsant.json"
+    },
+    {
+      "id": "char_466_qanik",
+      "name": "雪绒",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "雪绒_char_466_qanik.json"
+    },
+    {
+      "id": "char_4211_snhunt",
+      "name": "雪猎",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "雪猎_char_4211_snhunt.json"
+    },
+    {
+      "id": "char_498_inside",
+      "name": "隐现",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "隐现_char_498_inside.json"
+    },
+    {
+      "id": "char_219_meteo",
+      "name": "陨星",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "陨星_char_219_meteo.json"
+    },
+    {
+      "id": "char_446_aroma",
+      "name": "阿罗玛",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "阿罗玛_char_446_aroma.json"
+    },
+    {
+      "id": "char_002_amiya",
+      "name": "阿米娅",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "阿米娅_char_002_amiya.json"
+    },
+    {
+      "id": "char_4178_alanna",
+      "name": "阿兰娜",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "阿兰娜_char_4178_alanna.json"
+    },
+    {
+      "id": "char_457_blitz",
+      "name": "闪击",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "闪击_char_457_blitz.json"
+    },
+    {
+      "id": "char_348_ceylon",
+      "name": "锡兰",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "锡兰_char_348_ceylon.json"
+    },
+    {
+      "id": "char_4151_tinman",
+      "name": "锡人",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "锡人_char_4151_tinman.json"
+    },
+    {
+      "id": "char_333_sidero",
+      "name": "铸铁",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "铸铁_char_333_sidero.json"
+    },
+    {
+      "id": "char_4083_chimes",
+      "name": "铎铃",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "铎铃_char_4083_chimes.json"
+    },
+    {
+      "id": "char_4171_wulfen",
+      "name": "钼铅",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "钼铅_char_4171_wulfen.json"
+    },
+    {
+      "id": "char_496_wildmn",
+      "name": "野鬃",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "野鬃_char_496_wildmn.json"
+    },
+    {
+      "id": "char_513_apionr",
+      "name": "郁金香",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "郁金香_char_513_apionr.json"
+    },
+    {
+      "id": "char_279_excu",
+      "name": "送葬人",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "送葬人_char_279_excu.json"
+    },
+    {
+      "id": "token_10016_rfrost_mine",
+      "name": "迎宾踏垫",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "迎宾踏垫_token_10016_rfrost_mine.json"
+    },
+    {
+      "id": "char_157_dagda",
+      "name": "达格达",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "达格达_char_157_dagda.json"
+    },
+    {
+      "id": "char_4047_pianst",
+      "name": "车尔尼",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "车尔尼_char_4047_pianst.json"
+    },
+    {
+      "id": "char_108_silent",
+      "name": "赫默",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "赫默_char_108_silent.json"
+    },
+    {
+      "id": "char_475_akafyu",
+      "name": "赤冬",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "赤冬_char_475_akafyu.json"
+    },
+    {
+      "id": "char_349_chiave",
+      "name": "贾维",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "贾维_char_349_chiave.json"
+    },
+    {
+      "id": "char_369_bena",
+      "name": "贝娜",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "贝娜_char_369_bena.json"
+    },
+    {
+      "id": "char_4017_puzzle",
+      "name": "谜图",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "谜图_char_4017_puzzle.json"
+    },
+    {
+      "id": "char_4173_nowell",
+      "name": "诺威尔",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "诺威尔_char_4173_nowell.json"
+    },
+    {
+      "id": "char_308_swire",
+      "name": "诗怀雅",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "诗怀雅_char_308_swire.json"
+    },
+    {
+      "id": "token_10006_vodfox_doll",
+      "name": "诅咒娃娃",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "诅咒娃娃_token_10006_vodfox_doll.json"
+    },
+    {
+      "id": "char_4036_forcer",
+      "name": "见行者",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "见行者_char_4036_forcer.json"
+    },
+    {
+      "id": "char_4225_tanya",
+      "name": "裂响",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "裂响_char_4225_tanya.json"
+    },
+    {
+      "id": "char_4155_talr",
+      "name": "裁度",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "裁度_char_4155_talr.json"
+    },
+    {
+      "id": "char_4140_lasher",
+      "name": "衡沙",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "衡沙_char_4140_lasher.json"
+    },
+    {
+      "id": "char_4172_xingzh",
+      "name": "行箸",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "行箸_char_4172_xingzh.json"
+    },
+    {
+      "id": "char_344_beewax",
+      "name": "蜜蜡",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "蜜蜡_char_344_beewax.json"
+    },
+    {
+      "id": "char_449_glider",
+      "name": "蜜莓",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "蜜莓_char_449_glider.json"
+    },
+    {
+      "id": "char_489_serum",
+      "name": "蚀清",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "蚀清_char_489_serum.json"
+    },
+    {
+      "id": "char_388_mint",
+      "name": "薄绿",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "薄绿_char_388_mint.json"
+    },
+    {
+      "id": "char_129_bluep",
+      "name": "蓝毒",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "蓝毒_char_129_bluep.json"
+    },
+    {
+      "id": "char_4191_tippi",
+      "name": "蒂比",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "蒂比_char_4191_tippi.json"
+    },
+    {
+      "id": "char_4148_philae",
+      "name": "菲莱",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "菲莱_char_4148_philae.json"
+    },
+    {
+      "id": "char_4142_laios",
+      "name": "莱欧斯",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "莱欧斯_char_4142_laios.json"
+    },
+    {
+      "id": "char_373_lionhd",
+      "name": "莱恩哈特",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "莱恩哈特_char_373_lionhd.json"
+    },
+    {
+      "id": "char_4139_papyrs",
+      "name": "莎草",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "莎草_char_4139_papyrs.json"
+    },
+    {
+      "id": "char_405_absin",
+      "name": "苦艾",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "苦艾_char_405_absin.json"
+    },
+    {
+      "id": "char_4183_mortis",
+      "name": "若叶睦",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "若叶睦_char_4183_mortis.json"
+    },
+    {
+      "id": "char_4106_bryota",
+      "name": "苍苔",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "苍苔_char_4106_bryota.json"
+    },
+    {
+      "id": "char_261_sddrag",
+      "name": "苇草",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "苇草_char_261_sddrag.json"
+    },
+    {
+      "id": "char_106_franka",
+      "name": "芙兰卡",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "芙兰卡_char_106_franka.json"
+    },
+    {
+      "id": "char_4054_malist",
+      "name": "至简",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "至简_char_4054_malist.json"
+    },
+    {
+      "id": "char_4187_graceb",
+      "name": "聆音",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "聆音_char_4187_graceb.json"
+    },
+    {
+      "id": "char_4013_kjera",
+      "name": "耶拉",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "耶拉_char_4013_kjera.json"
+    },
+    {
+      "id": "char_421_crow",
+      "name": "羽毛笔",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "羽毛笔_char_421_crow.json"
+    },
+    {
+      "id": "char_451_robin",
+      "name": "罗宾",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "罗宾_char_451_robin.json"
+    },
+    {
+      "id": "char_478_kirara",
+      "name": "绮良",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "绮良_char_478_kirara.json"
+    },
+    {
+      "id": "token_10022_kazema_shadow",
+      "name": "纸偶",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "纸偶_token_10022_kazema_shadow.json"
+    },
+    {
+      "id": "char_4023_rfalcn",
+      "name": "红隼",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "红隼_char_4023_rfalcn.json"
+    },
+    {
+      "id": "char_144_red",
+      "name": "红",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "红_char_144_red.json"
+    },
+    {
+      "id": "char_436_whispr",
+      "name": "絮雨",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "絮雨_char_436_whispr.json"
+    },
+    {
+      "id": "char_4015_spuria",
+      "name": "空构",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "空构_char_4015_spuria.json"
+    },
+    {
+      "id": "char_101_sora",
+      "name": "空",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "空_char_101_sora.json"
+    },
+    {
+      "id": "char_336_folivo",
+      "name": "稀音",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "稀音_char_336_folivo.json"
+    },
+    {
+      "id": "token_10010_folivo_car",
+      "name": "移动摄影器",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "移动摄影器_token_10010_folivo_car.json"
+    },
+    {
+      "id": "char_4185_amoris",
+      "name": "祐天寺若麦",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "祐天寺若麦_char_4185_amoris.json"
+    },
+    {
+      "id": "token_10044_wulfen_mine",
+      "name": "矿石“杀手”",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "矿石“杀手”_token_10044_wulfen_mine.json"
+    },
+    {
+      "id": "char_378_asbest",
+      "name": "石棉",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "石棉_char_378_asbest.json"
+    },
+    {
+      "id": "char_4221_ju",
+      "name": "矩",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "矩_char_4221_ju.json"
+    },
+    {
+      "id": "token_10021_blkngt_hypnos",
+      "name": "眠兽",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "眠兽_token_10021_blkngt_hypnos.json"
+    },
+    {
+      "id": "char_195_glassb",
+      "name": "真理",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "真理_char_195_glassb.json"
+    },
+    {
+      "id": "char_128_plosis",
+      "name": "白面鸮",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "白面鸮_char_128_plosis.json"
+    },
+    {
+      "id": "char_204_platnm",
+      "name": "白金",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "白金_char_204_platnm.json"
+    },
+    {
+      "id": "char_4163_rosesa",
+      "name": "瑰盐",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "瑰盐_char_4163_rosesa.json"
+    },
+    {
+      "id": "char_4006_melnte",
+      "name": "玫拉",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "玫拉_char_4006_melnte.json"
+    },
+    {
+      "id": "char_215_mantic",
+      "name": "狮蝎",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "狮蝎_char_215_mantic.json"
+    },
+    {
+      "id": "char_411_tomimi",
+      "name": "特米米",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "特米米_char_411_tomimi.json"
+    },
+    {
+      "id": "char_4164_tecno",
+      "name": "特克诺",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "特克诺_char_4164_tecno.json"
+    },
+    {
+      "id": "char_338_iris",
+      "name": "爱丽丝",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "爱丽丝_char_338_iris.json"
+    },
+    {
+      "id": "token_10041_cathy_catsld",
+      "name": "爬行号·防护单元",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "爬行号·防护单元_token_10041_cathy_catsld.json"
+    },
+    {
+      "id": "char_415_flint",
+      "name": "燧石",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "燧石_char_415_flint.json"
+    },
+    {
+      "id": "char_363_toddi",
+      "name": "熔泉",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "熔泉_char_363_toddi.json"
+    },
+    {
+      "id": "char_194_leto",
+      "name": "烈夏",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "烈夏_char_194_leto.json"
+    },
+    {
+      "id": "char_131_flameb",
+      "name": "炎客",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "炎客_char_131_flameb.json"
+    },
+    {
+      "id": "char_431_ashlok",
+      "name": "灰毫",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "灰毫_char_431_ashlok.json"
+    },
+    {
+      "id": "char_367_swllow",
+      "name": "灰喉",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "灰喉_char_367_swllow.json"
+    },
+    {
+      "id": "char_163_hpsts",
+      "name": "火神",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "火神_char_163_hpsts.json"
+    },
+    {
+      "id": "char_493_firwhl",
+      "name": "火哨",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "火哨_char_493_firwhl.json"
+    },
+    {
+      "id": "char_4081_warmy",
+      "name": "温米",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "温米_char_4081_warmy.json"
+    },
+    {
+      "id": "char_4147_mitm",
+      "name": "渡桥",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "渡桥_char_4147_mitm.json"
+    },
+    {
+      "id": "char_4109_baslin",
+      "name": "深律",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "深律_char_4109_baslin.json"
+    },
+    {
+      "id": "char_4137_udflow",
+      "name": "深巡",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "深巡_char_4137_udflow.json"
+    },
+    {
+      "id": "char_4079_haini",
+      "name": "海霓",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "海霓_char_4079_haini.json"
+    },
+    {
+      "id": "char_4045_heidi",
+      "name": "海蒂",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "海蒂_char_4045_heidi.json"
+    },
+    {
+      "id": "char_4066_highmo",
+      "name": "海沫",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "海沫_char_4066_highmo.json"
+    },
+    {
+      "id": "char_4040_rockr",
+      "name": "洛洛",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "洛洛_char_4040_rockr.json"
+    },
+    {
+      "id": "char_464_cement",
+      "name": "洋灰",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "洋灰_char_464_cement.json"
+    },
+    {
+      "id": "char_487_bobb",
+      "name": "波卜",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "波卜_char_487_bobb.json"
+    },
+    {
+      "id": "token_10011_beewax_oblisk",
+      "name": "沙之碑",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "沙之碑_token_10011_beewax_oblisk.json"
+    },
+    {
+      "id": "char_4177_brigid",
+      "name": "水灯心",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "水灯心_char_4177_brigid.json"
+    },
+    {
+      "id": "token_10037_mitm_trshrb",
+      "name": "樱桃三号",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "樱桃三号_token_10037_mitm_trshrb.json"
+    },
+    {
+      "id": "char_243_waaifu",
+      "name": "槐琥",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "槐琥_char_243_waaifu.json"
+    },
+    {
+      "id": "char_4143_sensi",
+      "name": "森西",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "森西_char_4143_sensi.json"
+    },
+    {
+      "id": "char_242_otter",
+      "name": "梅尔",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "梅尔_char_242_otter.json"
+    },
+    {
+      "id": "char_473_mberry",
+      "name": "桑葚",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "桑葚_char_473_mberry.json"
+    },
+    {
+      "id": "char_220_grani",
+      "name": "格拉尼",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "格拉尼_char_220_grani.json"
+    },
+    {
+      "id": "char_326_glacus",
+      "name": "格劳克斯",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "格劳克斯_char_326_glacus.json"
+    },
+    {
+      "id": "char_252_bibeak",
+      "name": "柏喙",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "柏喙_char_252_bibeak.json"
+    },
+    {
+      "id": "char_401_elysm",
+      "name": "极境",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "极境_char_401_elysm.json"
+    },
+    {
+      "id": "char_422_aurora",
+      "name": "极光",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "极光_char_422_aurora.json"
+    },
+    {
+      "id": "char_4199_makiri",
+      "name": "松桐",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "松桐_char_4199_makiri.json"
+    },
+    {
+      "id": "char_4105_almond",
+      "name": "杏仁",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "杏仁_char_4105_almond.json"
+    },
+    {
+      "id": "token_10004_otter_motter",
+      "name": "机械水獭",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "机械水獭_token_10004_otter_motter.json"
+    },
+    {
+      "id": "token_10042_tecno_puppet",
+      "name": "木偶舞者",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "木偶舞者_token_10042_tecno_puppet.json"
+    },
+    {
+      "id": "char_343_tknogi",
+      "name": "月禾",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "月禾_char_343_tknogi.json"
+    },
+    {
+      "id": "char_304_zebra",
+      "name": "暴雨",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "暴雨_char_304_zebra.json"
+    },
+    {
+      "id": "char_230_savage",
+      "name": "暴行",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "暴行_char_230_savage.json"
+    },
+    {
+      "id": "char_4025_aprot2",
+      "name": "暮落",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "暮落_char_4025_aprot2.json"
+    },
+    {
+      "id": "char_512_aprot",
+      "name": "暮落",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "暮落_char_512_aprot.json"
+    },
+    {
+      "id": "char_145_prove",
+      "name": "普罗旺斯",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "普罗旺斯_char_145_prove.json"
+    },
+    {
+      "id": "char_497_ctable",
+      "name": "晓歌",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "晓歌_char_497_ctable.json"
+    },
+    {
+      "id": "char_135_halo",
+      "name": "星源",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "星源_char_135_halo.json"
+    },
+    {
+      "id": "char_274_astesi",
+      "name": "星极",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "星极_char_274_astesi.json"
+    },
+    {
+      "id": "char_4071_peper",
+      "name": "明椒",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "明椒_char_4071_peper.json"
+    },
+    {
+      "id": "char_294_ayer",
+      "name": "断崖",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "断崖_char_294_ayer.json"
+    },
+    {
+      "id": "char_154_morgan",
+      "name": "摩根",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "摩根_char_154_morgan.json"
+    },
+    {
+      "id": "char_4166_varkis",
+      "name": "摆渡人",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "摆渡人_char_4166_varkis.json"
+    },
+    {
+      "id": "char_433_windft",
+      "name": "掠风",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "掠风_char_433_windft.json"
+    },
+    {
+      "id": "char_325_bison",
+      "name": "拜松",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "拜松_char_325_bison.json"
+    },
+    {
+      "id": "char_140_whitew",
+      "name": "拉普兰德",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "拉普兰德_char_140_whitew.json"
+    },
+    {
+      "id": "char_4207_branch",
+      "name": "折桠",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "折桠_char_4207_branch.json"
+    },
+    {
+      "id": "char_499_kaitou",
+      "name": "折光",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "折光_char_499_kaitou.json"
+    },
+    {
+      "id": "char_4110_delphn",
+      "name": "戴菲恩",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "戴菲恩_char_4110_delphn.json"
+    },
+    {
+      "id": "char_4078_bdhkgt",
+      "name": "截云",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "截云_char_4078_bdhkgt.json"
+    },
+    {
+      "id": "char_459_tachak",
+      "name": "战车",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "战车_char_459_tachak.json"
+    },
+    {
+      "id": "char_379_sesa",
+      "name": "慑砂",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "慑砂_char_379_sesa.json"
+    },
+    {
+      "id": "char_306_leizi",
+      "name": "惊蛰",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "惊蛰_char_306_leizi.json"
+    },
+    {
+      "id": "char_102_texas",
+      "name": "德克萨斯",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "德克萨斯_char_102_texas.json"
+    },
+    {
+      "id": "char_275_breeze",
+      "name": "微风",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "微风_char_275_breeze.json"
+    },
+    {
+      "id": "char_4196_reckpr",
+      "name": "录武官",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "录武官_char_4196_reckpr.json"
+    },
+    {
+      "id": "char_143_ghost",
+      "name": "幽灵鲨",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "幽灵鲨_char_143_ghost.json"
+    },
+    {
+      "id": "char_356_broca",
+      "name": "布洛卡",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "布洛卡_char_356_broca.json"
+    },
+    {
+      "id": "char_254_vodfox",
+      "name": "巫恋",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "巫恋_char_254_vodfox.json"
+    },
+    {
+      "id": "char_173_slchan",
+      "name": "崖心",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "崖心_char_173_slchan.json"
+    },
+    {
+      "id": "token_10045_alanna_crane",
+      "name": "小螺帽",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "小螺帽_token_10045_alanna_crane.json"
+    },
+    {
+      "id": "char_4122_grabds",
+      "name": "小满",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "小满_char_4122_grabds.json"
+    },
+    {
+      "id": "char_4126_fuze",
+      "name": "导火索",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "导火索_char_4126_fuze.json"
+    },
+    {
+      "id": "char_4052_surfer",
+      "name": "寻澜",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "寻澜_char_4052_surfer.json"
+    },
+    {
+      "id": "char_341_sntlla",
+      "name": "寒檀",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "寒檀_char_341_sntlla.json"
+    },
+    {
+      "id": "char_218_cuttle",
+      "name": "安哲拉",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "安哲拉_char_218_cuttle.json"
+    },
+    {
+      "id": "char_158_milu",
+      "name": "守林人",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "守林人_char_158_milu.json"
+    },
+    {
+      "id": "char_4014_lunacu",
+      "name": "子月",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "子月_char_4014_lunacu.json"
+    },
+    {
+      "id": "char_4131_odda",
+      "name": "奥达",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "奥达_char_4131_odda.json"
+    },
+    {
+      "id": "char_346_aosta",
+      "name": "奥斯塔",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "奥斯塔_char_346_aosta.json"
+    },
+    {
+      "id": "char_4213_skybx",
+      "name": "天空盒",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "天空盒_char_4213_skybx.json"
+    },
+    {
+      "id": "char_166_skfire",
+      "name": "天火",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "天火_char_166_skfire.json"
+    },
+    {
+      "id": "char_164_nightm",
+      "name": "夜魔",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "夜魔_char_164_nightm.json"
+    },
+    {
+      "id": "char_476_blkngt",
+      "name": "夜半",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "夜半_char_476_blkngt.json"
+    },
+    {
+      "id": "char_492_quercu",
+      "name": "夏栎",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "夏栎_char_492_quercu.json"
+    },
+    {
+      "id": "char_4031_liesel",
+      "name": "复奏",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "复奏_char_4031_liesel.json"
+    },
+    {
+      "id": "char_4043_erato",
+      "name": "埃拉托",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "埃拉托_char_4043_erato.json"
+    },
+    {
+      "id": "char_402_tuye",
+      "name": "图耶",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "图耶_char_402_tuye.json"
+    },
+    {
+      "id": "char_155_tiger",
+      "name": "因陀罗",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "因陀罗_char_155_tiger.json"
+    },
+    {
+      "id": "char_365_aprl",
+      "name": "四月",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "四月_char_365_aprl.json"
+    },
+    {
+      "id": "char_4214_cairn",
+      "name": "响石",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "响石_char_4214_cairn.json"
+    },
+    {
+      "id": "char_394_hadiya",
+      "name": "哈蒂娅",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "哈蒂娅_char_394_hadiya.json"
+    },
+    {
+      "id": "char_4114_harold",
+      "name": "哈洛德",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "哈洛德_char_4114_harold.json"
+    },
+    {
+      "id": "char_297_hamoni",
+      "name": "和弦",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "和弦_char_297_hamoni.json"
+    },
+    {
+      "id": "char_226_hmau",
+      "name": "吽",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "吽_char_226_hmau.json"
+    },
+    {
+      "id": "char_4203_kichi",
+      "name": "吉星",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "吉星_char_4203_kichi.json"
+    },
+    {
+      "id": "char_201_moeshd",
+      "name": "可颂",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "可颂_char_201_moeshd.json"
+    },
+    {
+      "id": "token_10023_windft_wrench",
+      "name": "可靠电池",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "可靠电池_token_10023_windft_wrench.json"
+    },
+    {
+      "id": "token_10036_lasher_mcbird",
+      "name": "发条羽兽",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "发条羽兽_token_10036_lasher_mcbird.json"
+    },
+    {
+      "id": "char_4124_iana",
+      "name": "双月",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "双月_char_4124_iana.json"
+    },
+    {
+      "id": "char_214_kafka",
+      "name": "卡夫卡",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "卡夫卡_char_214_kafka.json"
+    },
+    {
+      "id": "char_171_bldsk",
+      "name": "华法琳",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "华法琳_char_171_bldsk.json"
+    },
+    {
+      "id": "token_10000_silent_healrb",
+      "name": "医疗探机",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "医疗探机_token_10000_silent_healrb.json"
+    },
+    {
+      "id": "char_4125_rdoc",
+      "name": "医生",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "医生_char_4125_rdoc.json"
+    },
+    {
+      "id": "char_494_vendla",
+      "name": "刺玫",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "刺玫_char_494_vendla.json"
+    },
+    {
+      "id": "char_174_slbell",
+      "name": "初雪",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "初雪_char_174_slbell.json"
+    },
+    {
+      "id": "char_4162_cathy",
+      "name": "凯瑟琳",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "凯瑟琳_char_4162_cathy.json"
+    },
+    {
+      "id": "char_4102_threye",
+      "name": "凛视",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "凛视_char_4102_threye.json"
+    },
+    {
+      "id": "char_115_headbr",
+      "name": "凛冬",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "凛冬_char_115_headbr.json"
+    },
+    {
+      "id": "char_4104_coldst",
+      "name": "冰酿",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "冰酿_char_4104_coldst.json"
+    },
+    {
+      "id": "char_4186_tmoris",
+      "name": "八幡海铃",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "八幡海铃_char_4186_tmoris.json"
+    },
+    {
+      "id": "char_4032_provs",
+      "name": "但书",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "但书_char_4032_provs.json"
+    },
+    {
+      "id": "char_4223_botany",
+      "name": "伯塔尼",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "伯塔尼_char_4223_botany.json"
+    },
+    {
+      "id": "char_345_folnic",
+      "name": "亚叶",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "亚叶_char_345_folnic.json"
+    },
+    {
+      "id": "char_4019_ncdeer",
+      "name": "九色鹿",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "九色鹿_char_4019_ncdeer.json"
+    },
+    {
+      "id": "char_455_nothin",
+      "name": "乌有",
+      "rarity": "☆5",
+      "profession": "特种",
+      "file": "乌有_char_455_nothin.json"
+    },
+    {
+      "id": "char_4224_turdus",
+      "name": "乌啾",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "乌啾_char_4224_turdus.json"
+    },
+    {
+      "id": "char_148_nearl",
+      "name": "临光",
+      "rarity": "☆5",
+      "profession": "重装",
+      "file": "临光_char_148_nearl.json"
+    },
+    {
+      "id": "char_4184_dolris",
+      "name": "三角初华",
+      "rarity": "☆5",
+      "profession": "辅助",
+      "file": "三角初华_char_4184_dolris.json"
+    },
+    {
+      "id": "char_4119_wanqin",
+      "name": "万顷",
+      "rarity": "☆5",
+      "profession": "先锋",
+      "file": "万顷_char_4119_wanqin.json"
+    },
+    {
+      "id": "token_10013_robin_mine",
+      "name": "“夹子”",
+      "rarity": "☆5",
+      "profession": "TOKEN",
+      "file": "“夹子”_token_10013_robin_mine.json"
+    },
+    {
+      "id": "char_510_amedic",
+      "name": "Touch",
+      "rarity": "☆5",
+      "profession": "医疗",
+      "file": "Touch_char_510_amedic.json"
+    },
+    {
+      "id": "char_511_asnipe",
+      "name": "Stormeye",
+      "rarity": "☆5",
+      "profession": "狙击",
+      "file": "Stormeye_char_511_asnipe.json"
+    },
+    {
+      "id": "char_508_aguard",
+      "name": "Sharp",
+      "rarity": "☆5",
+      "profession": "近卫",
+      "file": "Sharp_char_508_aguard.json"
+    },
+    {
+      "id": "char_509_acast",
+      "name": "Pith",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "Pith_char_509_acast.json"
+    },
+    {
+      "id": "char_4198_christ",
+      "name": "Miss.Christine",
+      "rarity": "☆5",
+      "profession": "术师",
+      "file": "Miss.Christine_char_4198_christ.json"
+    },
+    {
+      "id": "char_445_wscoot",
+      "name": "骋风",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "骋风_char_445_wscoot.json"
+    },
+    {
+      "id": "char_602_cdfend",
+      "name": "预备干员-重装",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "预备干员-重装_char_602_cdfend.json"
+    },
+    {
+      "id": "char_601_cguard",
+      "name": "预备干员-近卫",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "预备干员-近卫_char_601_cguard.json"
+    },
+    {
+      "id": "char_606_csuppo",
+      "name": "预备干员-辅助",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "预备干员-辅助_char_606_csuppo.json"
+    },
+    {
+      "id": "char_603_csnipe",
+      "name": "预备干员-狙击",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "预备干员-狙击_char_603_csnipe.json"
+    },
+    {
+      "id": "char_607_cspec",
+      "name": "预备干员-特种",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "预备干员-特种_char_607_cspec.json"
+    },
+    {
+      "id": "char_604_ccast",
+      "name": "预备干员-术师",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "预备干员-术师_char_604_ccast.json"
+    },
+    {
+      "id": "char_605_cmedic",
+      "name": "预备干员-医疗",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "预备干员-医疗_char_605_cmedic.json"
+    },
+    {
+      "id": "char_600_cpione",
+      "name": "预备干员-先锋",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "预备干员-先锋_char_600_cpione.json"
+    },
+    {
+      "id": "char_4130_luton",
+      "name": "露托",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "露托_char_4130_luton.json"
+    },
+    {
+      "id": "char_193_frostl",
+      "name": "霜叶",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "霜叶_char_193_frostl.json"
+    },
+    {
+      "id": "char_277_sqrrel",
+      "name": "阿消",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "阿消_char_277_sqrrel.json"
+    },
+    {
+      "id": "char_4062_totter",
+      "name": "铅踝",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "铅踝_char_4062_totter.json"
+    },
+    {
+      "id": "char_366_acdrop",
+      "name": "酸糖",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "酸糖_char_366_acdrop.json"
+    },
+    {
+      "id": "char_109_fmout",
+      "name": "远山",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "远山_char_109_fmout.json"
+    },
+    {
+      "id": "char_4100_caper",
+      "name": "跃跃",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "跃跃_char_4100_caper.json"
+    },
+    {
+      "id": "char_452_bstalk",
+      "name": "豆苗",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "豆苗_char_452_bstalk.json"
+    },
+    {
+      "id": "char_181_flower",
+      "name": "调香师",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "调香师_char_181_flower.json"
+    },
+    {
+      "id": "char_198_blackd",
+      "name": "讯使",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "讯使_char_198_blackd.json"
+    },
+    {
+      "id": "token_10001_deepcl_tentac",
+      "name": "触手",
+      "rarity": "☆4",
+      "profession": "TOKEN",
+      "file": "触手_token_10001_deepcl_tentac.json"
+    },
+    {
+      "id": "char_199_yak",
+      "name": "角峰",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "角峰_char_199_yak.json"
+    },
+    {
+      "id": "char_4041_chnut",
+      "name": "褐果",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "褐果_char_4041_chnut.json"
+    },
+    {
+      "id": "char_150_snakek",
+      "name": "蛇屠箱",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "蛇屠箱_char_150_snakek.json"
+    },
+    {
+      "id": "char_298_susuro",
+      "name": "苏苏洛",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "苏苏洛_char_298_susuro.json"
+    },
+    {
+      "id": "char_271_spikes",
+      "name": "芳汀",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "芳汀_char_271_spikes.json"
+    },
+    {
+      "id": "char_127_estell",
+      "name": "艾丝黛尔",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "艾丝黛尔_char_127_estell.json"
+    },
+    {
+      "id": "char_484_robrta",
+      "name": "罗比菈塔",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "罗比菈塔_char_484_robrta.json"
+    },
+    {
+      "id": "char_4067_lolxh",
+      "name": "罗小黑",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "罗小黑_char_4067_lolxh.json"
+    },
+    {
+      "id": "char_289_gyuki",
+      "name": "缠丸",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "缠丸_char_289_gyuki.json"
+    },
+    {
+      "id": "char_4107_vrdant",
+      "name": "维荻",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "维荻_char_4107_vrdant.json"
+    },
+    {
+      "id": "char_290_vigna",
+      "name": "红豆",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "红豆_char_290_vigna.json"
+    },
+    {
+      "id": "char_190_clour",
+      "name": "红云",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "红云_char_190_clour.json"
+    },
+    {
+      "id": "token_10014_bstalk_crab",
+      "name": "磐蟹护卫队",
+      "rarity": "☆4",
+      "profession": "TOKEN",
+      "file": "磐蟹护卫队_token_10014_bstalk_crab.json"
+    },
+    {
+      "id": "char_237_gravel",
+      "name": "砾",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "砾_char_237_gravel.json"
+    },
+    {
+      "id": "char_4063_quartz",
+      "name": "石英",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "石英_char_4063_quartz.json"
+    },
+    {
+      "id": "char_616_pithst",
+      "name": "盟约·辅助干员",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "盟约·辅助干员_char_616_pithst.json"
+    },
+    {
+      "id": "char_118_yuki",
+      "name": "白雪",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "白雪_char_118_yuki.json"
+    },
+    {
+      "id": "char_137_brownb",
+      "name": "猎蜂",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "猎蜂_char_137_brownb.json"
+    },
+    {
+      "id": "char_149_scave",
+      "name": "清道夫",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "清道夫_char_149_scave.json"
+    },
+    {
+      "id": "char_385_finlpp",
+      "name": "清流",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "清流_char_385_finlpp.json"
+    },
+    {
+      "id": "char_469_indigo",
+      "name": "深靛",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "深靛_char_469_indigo.json"
+    },
+    {
+      "id": "char_110_deepcl",
+      "name": "深海色",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "深海色_char_110_deepcl.json"
+    },
+    {
+      "id": "char_126_shotst",
+      "name": "流星",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "流星_char_126_shotst.json"
+    },
+    {
+      "id": "char_258_podego",
+      "name": "波登可",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "波登可_char_258_podego.json"
+    },
+    {
+      "id": "char_381_bubble",
+      "name": "泡泡",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "泡泡_char_381_bubble.json"
+    },
+    {
+      "id": "char_133_mm",
+      "name": "梅",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "梅_char_133_mm.json"
+    },
+    {
+      "id": "char_151_myrtle",
+      "name": "桃金娘",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "桃金娘_char_151_myrtle.json"
+    },
+    {
+      "id": "char_253_greyy",
+      "name": "格雷伊",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "格雷伊_char_253_greyy.json"
+    },
+    {
+      "id": "char_440_pinecn",
+      "name": "松果",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "松果_char_440_pinecn.json"
+    },
+    {
+      "id": "char_235_jesica",
+      "name": "杰西卡",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "杰西卡_char_235_jesica.json"
+    },
+    {
+      "id": "char_347_jaksel",
+      "name": "杰克",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "杰克_char_347_jaksel.json"
+    },
+    {
+      "id": "char_130_doberm",
+      "name": "杜宾",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "杜宾_char_130_doberm.json"
+    },
+    {
+      "id": "char_117_myrrh",
+      "name": "末药",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "末药_char_117_myrrh.json"
+    },
+    {
+      "id": "char_236_rope",
+      "name": "暗索",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "暗索_char_236_rope.json"
+    },
+    {
+      "id": "char_159_peacok",
+      "name": "断罪者",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "断罪者_char_159_peacok.json"
+    },
+    {
+      "id": "char_185_frncat",
+      "name": "慕斯",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "慕斯_char_185_frncat.json"
+    },
+    {
+      "id": "char_4004_pudd",
+      "name": "布丁",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "布丁_char_4004_pudd.json"
+    },
+    {
+      "id": "char_337_utage",
+      "name": "宴",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "宴_char_337_utage.json"
+    },
+    {
+      "id": "char_302_glaze",
+      "name": "安比尔",
+      "rarity": "☆4",
+      "profession": "狙击",
+      "file": "安比尔_char_302_glaze.json"
+    },
+    {
+      "id": "char_272_strong",
+      "name": "孑",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "孑_char_272_strong.json"
+    },
+    {
+      "id": "char_141_nights",
+      "name": "夜烟",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "夜烟_char_141_nights.json"
+    },
+    {
+      "id": "char_260_durnar",
+      "name": "坚雷",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "坚雷_char_260_durnar.json"
+    },
+    {
+      "id": "char_183_skgoat",
+      "name": "地灵",
+      "rarity": "☆4",
+      "profession": "辅助",
+      "file": "地灵_char_183_skgoat.json"
+    },
+    {
+      "id": "char_187_ccheal",
+      "name": "嘉维尔",
+      "rarity": "☆4",
+      "profession": "医疗",
+      "file": "嘉维尔_char_187_ccheal.json"
+    },
+    {
+      "id": "char_196_sunbr",
+      "name": "古米",
+      "rarity": "☆4",
+      "profession": "重装",
+      "file": "古米_char_196_sunbr.json"
+    },
+    {
+      "id": "char_328_cammou",
+      "name": "卡达",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "卡达_char_328_cammou.json"
+    },
+    {
+      "id": "char_4051_akkord",
+      "name": "协律",
+      "rarity": "☆4",
+      "profession": "术师",
+      "file": "协律_char_4051_akkord.json"
+    },
+    {
+      "id": "char_301_cutter",
+      "name": "刻刀",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "刻刀_char_301_cutter.json"
+    },
+    {
+      "id": "char_4208_wintim",
+      "name": "冬时",
+      "rarity": "☆4",
+      "profession": "先锋",
+      "file": "冬时_char_4208_wintim.json"
+    },
+    {
+      "id": "token_10018_robrta_mach",
+      "name": "全自动造型仪",
+      "rarity": "☆4",
+      "profession": "TOKEN",
+      "file": "全自动造型仪_token_10018_robrta_mach.json"
+    },
+    {
+      "id": "char_491_humus",
+      "name": "休谟斯",
+      "rarity": "☆4",
+      "profession": "近卫",
+      "file": "休谟斯_char_491_humus.json"
+    },
+    {
+      "id": "char_355_ethan",
+      "name": "伊桑",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "伊桑_char_355_ethan.json"
+    },
+    {
+      "id": "char_4165_ctrail",
+      "name": "云迹",
+      "rarity": "☆4",
+      "profession": "特种",
+      "file": "云迹_char_4165_ctrail.json"
+    },
+    {
+      "id": "char_240_wyvern",
+      "name": "香草",
+      "rarity": "☆3",
+      "profession": "先锋",
+      "file": "香草_char_240_wyvern.json"
+    },
+    {
+      "id": "char_514_rdfend",
+      "name": "预备干员-重装",
+      "rarity": "☆3",
+      "profession": "重装",
+      "file": "预备干员-重装_char_514_rdfend.json"
+    },
+    {
+      "id": "char_504_rguard",
+      "name": "预备干员-近战",
+      "rarity": "☆3",
+      "profession": "先锋",
+      "file": "预备干员-近战_char_504_rguard.json"
+    },
+    {
+      "id": "char_507_rsnipe",
+      "name": "预备干员-狙击",
+      "rarity": "☆3",
+      "profession": "狙击",
+      "file": "预备干员-狙击_char_507_rsnipe.json"
+    },
+    {
+      "id": "char_505_rcast",
+      "name": "预备干员-术师",
+      "rarity": "☆3",
+      "profession": "术师",
+      "file": "预备干员-术师_char_505_rcast.json"
+    },
+    {
+      "id": "char_506_rmedic",
+      "name": "预备干员-后勤",
+      "rarity": "☆3",
+      "profession": "医疗",
+      "file": "预备干员-后勤_char_506_rmedic.json"
+    },
+    {
+      "id": "char_123_fang",
+      "name": "芬",
+      "rarity": "☆3",
+      "profession": "先锋",
+      "file": "芬_char_123_fang.json"
+    },
+    {
+      "id": "char_120_hibisc",
+      "name": "芙蓉",
+      "rarity": "☆3",
+      "profession": "医疗",
+      "file": "芙蓉_char_120_hibisc.json"
+    },
+    {
+      "id": "char_192_falco",
+      "name": "翎羽",
+      "rarity": "☆3",
+      "profession": "先锋",
+      "file": "翎羽_char_192_falco.json"
+    },
+    {
+      "id": "char_122_beagle",
+      "name": "米格鲁",
+      "rarity": "☆3",
+      "profession": "重装",
+      "file": "米格鲁_char_122_beagle.json"
+    },
+    {
+      "id": "char_282_catap",
+      "name": "空爆",
+      "rarity": "☆3",
+      "profession": "狙击",
+      "file": "空爆_char_282_catap.json"
+    },
+    {
+      "id": "char_208_melan",
+      "name": "玫兰莎",
+      "rarity": "☆3",
+      "profession": "近卫",
+      "file": "玫兰莎_char_208_melan.json"
+    },
+    {
+      "id": "char_121_lava",
+      "name": "炎熔",
+      "rarity": "☆3",
+      "profession": "术师",
+      "file": "炎熔_char_121_lava.json"
+    },
+    {
+      "id": "char_281_popka",
+      "name": "泡普卡",
+      "rarity": "☆3",
+      "profession": "近卫",
+      "file": "泡普卡_char_281_popka.json"
+    },
+    {
+      "id": "char_278_orchid",
+      "name": "梓兰",
+      "rarity": "☆3",
+      "profession": "辅助",
+      "file": "梓兰_char_278_orchid.json"
+    },
+    {
+      "id": "char_283_midn",
+      "name": "月见夜",
+      "rarity": "☆3",
+      "profession": "近卫",
+      "file": "月见夜_char_283_midn.json"
+    },
+    {
+      "id": "char_284_spot",
+      "name": "斑点",
+      "rarity": "☆3",
+      "profession": "重装",
+      "file": "斑点_char_284_spot.json"
+    },
+    {
+      "id": "char_212_ansel",
+      "name": "安赛尔",
+      "rarity": "☆3",
+      "profession": "医疗",
+      "file": "安赛尔_char_212_ansel.json"
+    },
+    {
+      "id": "char_211_adnach",
+      "name": "安德切尔",
+      "rarity": "☆3",
+      "profession": "狙击",
+      "file": "安德切尔_char_211_adnach.json"
+    },
+    {
+      "id": "char_210_stward",
+      "name": "史都华德",
+      "rarity": "☆3",
+      "profession": "术师",
+      "file": "史都华德_char_210_stward.json"
+    },
+    {
+      "id": "char_209_ardign",
+      "name": "卡缇",
+      "rarity": "☆3",
+      "profession": "重装",
+      "file": "卡缇_char_209_ardign.json"
+    },
+    {
+      "id": "char_124_kroos",
+      "name": "克洛丝",
+      "rarity": "☆3",
+      "profession": "狙击",
+      "file": "克洛丝_char_124_kroos.json"
+    },
+    {
+      "id": "char_500_noirc",
+      "name": "黑角",
+      "rarity": "☆2",
+      "profession": "重装",
+      "file": "黑角_char_500_noirc.json"
+    },
+    {
+      "id": "char_501_durin",
+      "name": "杜林",
+      "rarity": "☆2",
+      "profession": "术师",
+      "file": "杜林_char_501_durin.json"
+    },
+    {
+      "id": "char_503_rang",
+      "name": "巡林者",
+      "rarity": "☆2",
+      "profession": "狙击",
+      "file": "巡林者_char_503_rang.json"
+    },
+    {
+      "id": "char_502_nblade",
+      "name": "夜刀",
+      "rarity": "☆2",
+      "profession": "先锋",
+      "file": "夜刀_char_502_nblade.json"
+    },
+    {
+      "id": "char_009_12fce",
+      "name": "12F",
+      "rarity": "☆2",
+      "profession": "术师",
+      "file": "12F_char_009_12fce.json"
+    }
+  ]
+}
