@@ -1,4 +1,4 @@
-# Arknights AI Skill — 明日方舟角色AI技能设定
+# Arknights AI Skill — 明日方舟角色AI设定
 
 基于[ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)游戏数据，自动提取并生成明日方舟全角色的 AI 角色扮演技能设定。每个角色包含完整的性格特征、说话风格、价值观、知识领域、人际关系等数据，可直接用于 AI 角色扮演 / SillyTavern / Character Card 等场景。
 
