@@ -1,37 +1,53 @@
 {
   "name": "桑特拉",
-  "identity": "桑特拉，罗德岛成员",
-  "basic_info": {
+  "description": {
+    "name": "桑特拉",
+    "codename": "桑特拉",
     "gender": "",
     "race": "",
     "birthplace": "",
+    "birthday": "",
     "height": "",
-    "infection": ""
+    "affiliation": "",
+    "infection_status": ""
+  },
+  "identity": {
+    "name": "桑特拉",
+    "codename": "桑特拉",
+    "gender": "",
+    "race": "",
+    "birthplace": "",
+    "birthday": "",
+    "height": "",
+    "affiliation": "",
+    "infection_status": ""
   },
   "personality": {
-    "core_traits": [
+    "core": [
       "恪尽职守"
     ],
-    "emotional_pattern": "",
+    "inner_world": "",
     "speaking_style": "正式规范",
     "values_and_beliefs": [
       "履行职责"
     ],
-    "daily_life": "",
-    "quirks": []
+    "emotional_patterns": {},
+    "quirks": [],
+    "daily_life": ""
   },
   "life_story": {
     "origin": "出身不明",
-    "key_experiences": []
+    "key_events": [],
+    "current_life": ""
   },
-  "knowledge_and_expertise": {
-    "knows_well": "罗德岛的基本运作",
-    "knows_partially": "泰拉大陆的部分常识",
-    "doesnt_know": "博士的过去"
-  },
+  "memories": [],
   "relationships": {},
-  "voice_and_expression": {
-    "typical_expressions": []
-  },
-  "worldview": {}
+  "knowledge": {},
+  "worldview": {},
+  "appearance": "",
+  "notable_abilities": "",
+  "trivia": [],
+  "archive_records": [],
+  "personal_stories": [],
+  "voice_lines": []
 }
