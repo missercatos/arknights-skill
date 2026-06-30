@@ -132,5 +132,70 @@
     "我当然明白这合约是对我的戏弄，可是这又如何呢，银灰愿意签署这份不平等的合同——因为你值得银灰这么做。",
     "嗯？",
     "“——天空似乎暗了下来，要下雪了——”"
+  ],
+  "story_appearances": [
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act36side/level_act36side_08_end.txt",
+      "plot_summary": "危机解除，终于放下心来的小队几人好好地参观了罗德岛，做出了一顿饱含回忆的大餐，和众人一同分享。",
+      "my_lines": [
+        "多谢。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act7d5/level_act7d5_st03.txt",
+      "plot_summary": "角峰听从银灰的吩咐，单独为崖心准备午餐。\n顺手给前来觅食的伊桑也做了菜的角峰没有料到，伊桑竟也为他准备了一份惊喜。",
+      "my_lines": [
+        "不必，我只是路过。",
+        "比起这个，角峰，恩希亚最近怎么样了。",
+        "那就好。顺便再热一壶咸乳茶吧，恩希亚一向喜欢那个。",
+        "嗯，那就这样。",
+        "有劳了。"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act7fun/level_act7fun_05_end.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "......",
+        "......"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_blackd_2_1.txt",
+      "plot_summary": "为了完善谢拉格的物流系统，讯使遇到了一个两难的问题。而在这时，银灰出现在了他的面前......",
+      "my_lines": [
+        "魏斯，看来你最近的想法有些危险。",
+        "不过，我也有几分好奇。所以，试着执行这份企划案吧，魏斯。",
+        "地图测绘、路线规划、安抚村庄、人员调配......",
+        "或许等你推进下去后就会发现，你以为非你不可的事，事实却未必如此。",
+        "等等。"
+      ],
+      "total_lines_in_file": 83
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_yak_1_1.txt",
+      "plot_summary": "平静的一天里，角峰似乎在等待着什么。",
+      "my_lines": [
+        "角峰你......一直等到这么晚吗？",
+        "不是让讯使回来说过，今天有急事，我不回来用晚餐了吗？",
+        "也好，家里还有什么吃的吗？",
+        "不必了，晚饭热一热端上来就行了。",
+        "怎么，恩希亚今天没有出去吃？"
+      ],
+      "total_lines_in_file": 37
+    }
   ]
 }

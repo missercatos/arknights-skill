@@ -70,5 +70,146 @@
     }
   ],
   "personal_stories": [],
-  "voice_lines": []
+  "voice_lines": [],
+  "story_appearances": [
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-04_beg.txt",
+      "plot_summary": "在执行本舰重要模块的秘密运输任务时，罗德岛遭遇了有预谋的袭击，但都被博士与精英干员携手化解。",
+      "my_lines": [
+        "第七批。",
+        "虽然威胁性并不高，但近一周来，每天都有如此高频率的袭击也太过诡异了。",
+        "这才刚刚进入卡兹戴尔的边境范围......",
+        "调查结果如何？",
+        "恐怕是这样的。"
+      ],
+      "total_lines_in_file": 6
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-10_end.txt",
+      "plot_summary": "本舰如同活过来一般，其结构开始无序变动，所有的通讯也被截断。凯尔希主动进入了曾安置博士的石棺寻求解围的办法，也为在舰干员的行动提供了支持。",
+      "my_lines": [
+        "备用电力系统还没接通吗？",
+        "我看得清。",
+        "这些源石结晶几乎是在一瞬间冒出来的。",
+        "还是联系不到其他人吗？",
+        "我这还有一个更坏的消息，不知道为什么，罗德岛正在以极限速度向西北方向航行。"
+      ],
+      "total_lines_in_file": 25
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-12_end.txt",
+      "plot_summary": "凯尔希进入石棺之后，得到了意料之外的协助。她切断了自己与Mon3tr的联系，给予了Mon3tr自由，并重新恢复了在舰干员之间的联系。众人携手对抗暴走的PRTS。",
+      "my_lines": [
+        "但加速度在持续变小，说明Logos的行动已经奏效了。",
+        "相信其他同僚吧，我们手上的任务也不乐观——提前疏散路径上的人员，尽可能清除路径上的威胁。",
+        "站稳，我加速了。",
+        "接近目标地点了。"
+      ],
+      "total_lines_in_file": 4
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-13_beg.txt",
+      "plot_summary": "Friston-3帮助解除了小车们失控的危机，而所有的精英干员也开始与博士会合。任务目标已确定——支援凯尔希，突入隐藏区域Abyss。",
+      "my_lines": [
+        "稍等片刻。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-14_end.txt",
+      "plot_summary": "众人突破危机，从石棺中救下了虚弱的凯尔希，并且整队完毕，准备进入Abyss面对来自罗德岛内部的危机——失控的PRTS的核心组件，以及可能已苏醒的普瑞赛斯。",
+      "my_lines": [
+        "目标已经消灭。",
+        "对着墙体支柱？",
+        "地形在我出手的瞬间发生了变化，障碍物刚好消失，命中敌方......",
+        "可露希尔，你怎么做到的？！",
+        "哈。"
+      ],
+      "total_lines_in_file": 6
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-15_beg.txt",
+      "plot_summary": "在众人跨入Abyss的瞬间，普瑞赛斯将博士、凯尔希、阿米娅转移到了甲板，并留下了其他人面对PRTS的攻击。",
+      "my_lines": [
+        "那就不耽搁了。",
+        "Mechanist，我和Sharp掩护你靠近那个未知机械，先确认是否和PRTS核心有关。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-16_beg.txt",
+      "plot_summary": "阿米娅借助从黑王冠中得到的知识勉强拖延了普瑞赛斯的行动。众人与博士的联络重新恢复，当务之急是化解普瑞赛斯与PRTS带来的危机。",
+      "my_lines": [
+        "的确没有其他办法了。",
+        "各位？"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-18_end.txt",
+      "plot_summary": "在博士和阿米娅的争取之下，所有在舰人员成功撤离，而本舰则被彻底封存在源石之中。一个月后，复苏的Mon3tr终于归来，而她的身边却不再有凯尔希。",
+      "my_lines": [
+        "交给我的箭。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act17d0/level_act17d0_08_end.txt",
+      "plot_summary": "在激烈的战斗后，列维与他的造物长埋于长泉镇地底，而负责防守领主宅邸的干员也获得了意料之外的增援。",
+      "my_lines": [
+        "我收到了求救信号，本来以为只是一次普通的救援任务。",
+        "我没有想到会在这里遇到你。",
+        "老游侠。",
+        "你重操旧业了。",
+        "你的弯刀呢，游侠。"
+      ],
+      "total_lines_in_file": 12
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_mantic_1_1.txt",
+      "plot_summary": "意外来到罗德岛的曼提柯少女在紧锁的房门内一言不发，但门外的谈话她都听进了心里。",
+      "my_lines": [
+        "把她带回来是我的失误，抱歉。",
+        "如我在报告中所述，她昏倒在安全屋附近，奄奄一息，身上盖着一层沙尘，和大多数在沙漠遭遇天灾的人一样。",
+        "我想给她一口水喝，出于一点以前的习惯。",
+        "我承认，我没充分考虑她可能会是什么人。",
+        "我给了她淡盐水，把她留在村落附近的阴凉处。"
+      ],
+      "total_lines_in_file": 15
+    },
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_2/sandbox_2_xb2smy.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "他抢在我前面射杀了我选择的猎物，还对着我们射箭，我这都不去会会他？",
+        "第一次的时候他还只觉得我是“箭法还可以”，后面才真的发现我们真能解决那头猛兽。",
+        "不过他确实是一个值得敬佩的人，“穿着宝石衣服的废物”，这话说得很对......",
+        "你说我喝多了？不可能！",
+        "......你是说，我昨天对着新来的小干员说了一晚上，自己是怎么打猎的？"
+      ],
+      "total_lines_in_file": 6
+    }
+  ]
 }

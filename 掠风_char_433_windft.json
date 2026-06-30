@@ -105,5 +105,27 @@
     "小时候父母努力攒钱让我上了好学校，有同学嘲笑我家里穷，我就想着一定要学出个样子，比过他们。他们现在的生活也许仍旧比我好，但我如今只想关心我自己了。",
     "耳朵？",
     "睡着了哎？好安静......汪呜！——噢、您醒了啊，博士？"
+  ],
+  "story_appearances": [
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_2/sandbox_2_ending_3.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "对了，刚刚医疗部那边送来了病人们拿来的果干，好大一篮子呢，说要分给大家都尝尝。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_2/sandbox_2_ending_4.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "我们已经检查了电路和设置，都很正常。"
+      ],
+      "total_lines_in_file": 1
+    }
   ]
 }

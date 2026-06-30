@@ -70,5 +70,319 @@
     }
   ],
   "personal_stories": [],
-  "voice_lines": []
+  "voice_lines": [],
+  "story_appearances": [
+    {
+      "category": "主线剧情",
+      "chapter": "第14章",
+      "file": "obt/main/level_main_14-17_end.txt",
+      "plot_summary": "博士离开那处神秘之地，却发现自己身处罗德岛，且身边环绕着未曾料想过的同伴。",
+      "my_lines": [
+        "敬我们尊敬的老前辈。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-04_beg.txt",
+      "plot_summary": "在执行本舰重要模块的秘密运输任务时，罗德岛遭遇了有预谋的袭击，但都被博士与精英干员携手化解。",
+      "my_lines": [
+        "这是今天第几批袭击我们的佣兵了？",
+        "这些人不怕死的样子，让我想起以前在萨尔贡认识的那些佣兵。",
+        "毫无信念。",
+        "Misery怎么花了这么长时间？已经过了预计的返程时间了。",
+        "也就是说，我们只是“运气不好”撞上了这些佣兵。"
+      ],
+      "total_lines_in_file": 7
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-10_end.txt",
+      "plot_summary": "本舰如同活过来一般，其结构开始无序变动，所有的通讯也被截断。凯尔希主动进入了曾安置博士的石棺寻求解围的办法，也为在舰干员的行动提供了支持。",
+      "my_lines": [
+        "接线盒摔坏了。切断那条受损的线路试试，也许短路保护开关还在工作。",
+        "注意脚下。",
+        "运气不错。",
+        "通讯干扰仍然存在，应急频段都无法正常使用。",
+        "必须想办法排除航道上可能会出现的意外，从外围保护本舰，也避免把无辜的人卷进来。"
+      ],
+      "total_lines_in_file": 15
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-12_end.txt",
+      "plot_summary": "凯尔希进入石棺之后，得到了意料之外的协助。她切断了自己与Mon3tr的联系，给予了Mon3tr自由，并重新恢复了在舰干员之间的联系。众人携手对抗暴走的PRTS。",
+      "my_lines": [
+        "从这种高度观察本舰的行驶状况，速度还在增加......",
+        "那个移动采矿平台已经进入了我的目视范围内，按照轨迹的确可能会和本舰发生撞击。",
+        "Stormeye，继续以现在的轨迹飞行，二十秒后我会空降到目标地点，然后疏散平台工作人员。",
+        "好，待会见。"
+      ],
+      "total_lines_in_file": 4
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-13_beg.txt",
+      "plot_summary": "Friston-3帮助解除了小车们失控的危机，而所有的精英干员也开始与博士会合。任务目标已确定——支援凯尔希，突入隐藏区域Abyss。",
+      "my_lines": [
+        "“坏家伙”号已返回本舰，马上集合。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-15_beg.txt",
+      "plot_summary": "在众人跨入Abyss的瞬间，普瑞赛斯将博士、凯尔希、阿米娅转移到了甲板，并留下了其他人面对PRTS的攻击。",
+      "my_lines": [
+        "——？！"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_01_beg.txt",
+      "plot_summary": "博士一行应恩希欧迪斯邀请来到谢拉格，各自稍作休整后，登上前往圣山的列车。",
+      "my_lines": [
+        "......",
+        "是我。",
+        "听得到。",
+        "嗯。",
+        "如何？"
+      ],
+      "total_lines_in_file": 17
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_02_beg.txt",
+      "plot_summary": "神秘女子雅儿与博士展开了交谈，恩希亚决心去找博士。\nSharp与极光正要为营救博士而行动，雅儿带来了博士的指令。",
+      "my_lines": [
+        "假期结束了，极光。",
+        "博士昨天在车站被佩尔罗契家的人接走了。",
+        "博士是自愿和他们走的，你应该明白我的意思，他多半有什么计划了。",
+        "我大致看了一下地图，从车站到佩尔罗契家要一段时间。",
+        "现在，博士现在应该已经到佩尔罗契家了，我们也该行动了。"
+      ],
+      "total_lines_in_file": 34
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_03_beg.txt",
+      "plot_summary": "一波未平，一波又起。眼见情况危急，Sharp出手救出博士。而博士选择折返，和极光一起向民众陈述利害，暂时压下矛盾。",
+      "my_lines": [
+        "汇报情况。",
+        "他们是向着工厂那边进发的？",
+        "想办法跟上，随时报告。",
+        "这里不安全！",
+        "唉......"
+      ],
+      "total_lines_in_file": 25
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_05_end.txt",
+      "plot_summary": "因为刺杀恩希欧迪斯未遂，危急时刻，莫希选择了跳崖。\n而恩希欧迪斯对于这一切似乎毫不惊讶。大典即将开始。",
+      "my_lines": [
+        "......",
+        "切开箭矢确实有点难度。",
+        "不过这只是工作的一部分，恩希欧迪斯先生。",
+        "所以你们还继续打吗？",
+        "......她跳下去了。"
+      ],
+      "total_lines_in_file": 13
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_06_beg.txt",
+      "plot_summary": "反目竟是诺希斯演的一出戏，而莫希对此感到失望。\n另一边，博士决定出手，而菈塔托丝却选择独走。",
+      "my_lines": [
+        "博士，工作完成了。",
+        "我留不住谢拉格的二位家主。菈塔托丝让我替她向你道谢，不过她似乎有自己的打算，返回了自己的领地。",
+        "阿克托斯正在赶回本家，他看起来要集结兵力和恩希欧迪斯决一死战。",
+        "博士的意思是，他们两个如果在这里被抓住，那么，很有可能因为群情激愤而直接被处死。",
+        "即使没有，也必然会直接遭到审判。"
+      ],
+      "total_lines_in_file": 21
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_06_end.txt",
+      "plot_summary": "菈塔托丝秘密会见恩希欧迪斯，真实目的却是同归于尽。\n烈火之中，两家领袖坦诚相见。",
+      "my_lines": [
+        "看来我来晚了一步。",
+        "不，博士派我来请你过去聊一聊。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_07_beg.txt",
+      "plot_summary": "在博士的帮助下，阿克托斯重整态势，菈塔托丝则将指挥权交给了妹妹。",
+      "my_lines": [
+        "博士，菈塔托丝来了。",
+        "这也是工作的一部分？",
+        "不知道，但我应该能拖住她十几分钟吧。"
+      ],
+      "total_lines_in_file": 3
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_08_beg.txt",
+      "plot_summary": "博士的计划成功迷惑了希瓦艾什方。\n恩希亚顺利抵达圣山山脚开始攀登，而锏也被Sharp截住，双方的战斗一触即发。",
+      "my_lines": [
+        "幸亏博士随身携带了好几套这样的兜帽。",
+        "确切地讲，这一计，是纯粹为你准备的。",
+        "你这样能够用力量凌驾于几乎所有计谋的人，他不得不谨慎对待。",
+        "那么，我们这一整支队伍都是你的对手，你也可以高兴一点。",
+        "很遗憾，我也不是会对敌人的赞美感到喜悦的类型。"
+      ],
+      "total_lines_in_file": 12
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_08_end.txt",
+      "plot_summary": "几方战场都如火如荼，就在斗争似乎已经无法避免之时，圣女恩雅决定下山，平息争端。",
+      "my_lines": [
+        "......上一份工作。",
+        "想不到你能认出萨尔贡的剑术。",
+        "难怪黑骑士被称作天生的武者。",
+        "难道你没有痛觉？",
+        "在战争中，我所知道的有心思去数的人都活不长久。"
+      ],
+      "total_lines_in_file": 31
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_st01.txt",
+      "plot_summary": "博士被软禁在佩尔罗契家，恩希欧迪斯与诺希斯决裂，各方暗流涌动，情况急转直下。",
+      "my_lines": [
+        "......",
+        "是我。",
+        "......（长叹一口气）",
+        "......听你的。",
+        "......"
+      ],
+      "total_lines_in_file": 12
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_st02.txt",
+      "plot_summary": "诺希斯炸毁大桥与铁轨，正式宣战。",
+      "my_lines": [
+        "......部队的名称似乎是“山雪鬼”。在场的“山雪鬼”不多，似乎都被菈塔托丝他们活捉了。",
+        "另外执掌载货列车的两名“山雪鬼”虽然生还，但也一样遭到囚禁。",
+        "我亲眼所见的部分就到这里了，我自信自己没有被任何当事人发现。",
+        "恩希欧迪斯肯定也不会将此视为单纯的雪难吧。",
+        "为免希瓦艾什家生疑，我就先行告退，等候博士的下一步指示。"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_st03.txt",
+      "plot_summary": "大典之上，恩希欧迪斯指出另外两家图谋不轨。\n民众站在了恩希欧迪斯那一边，另外两家首领在Sharp的帮助下狼狈逃窜。",
+      "my_lines": [
+        "博士，有什么命令？",
+        "......我不明白。",
+        "......我需要行动理由，博士，这已经不只是保护你了。",
+        "......",
+        "我的职责是维护罗德岛的立场，以及你的安全。"
+      ],
+      "total_lines_in_file": 28
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act14side/level_act14side_st04.txt",
+      "plot_summary": "雪山事变结束，各方收场，事情似乎在往好的方向展开。但也有可能，一切只是刚刚开始。",
+      "my_lines": [
+        "......博士，怎么办？",
+        "这件事确实情有可原，我会在报告里阐明。",
+        "至于上面怎么决定，我就不知道了。",
+        "博士，我知道你没有责怪他们。",
+        "但假装没听到并不高明。"
+      ],
+      "total_lines_in_file": 9
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act30side/level_act30side_08_end.txt",
+      "plot_summary": "“灰礼帽”想要截断恩希欧迪斯的后手，却不料休露丝早有安排。锏一人逼得大军无法寸进，眼看寡不敌众，恩希欧迪斯的后手终于赶到，危机解除。",
+      "my_lines": [
+        "别激动。",
+        "只是路过。",
+        "这个你得问我上司。"
+      ],
+      "total_lines_in_file": 3
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act30side/level_act30side_st03.txt",
+      "plot_summary": "各方偃旗息鼓，典礼顺利举行。谢拉格局势从此大变，更多更复杂的挑战即将到来，而地下工厂中的庞然大物，预示着谢拉格已经有所准备。",
+      "my_lines": [
+        "现在是工作时间。",
+        "保护博士是我的工作。",
+        "......",
+        "等你养好伤。",
+        "如果那时候我还在谢拉格，可以找个下班之后的时间。"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act46side/level_act46side_09_end.txt",
+      "plot_summary": "面对开斯特的军事施压，谢拉格众人没有轻易妥协。锏为保护菈塔托丝被“灰礼帽”围攻，阿克托斯带领士兵在边境与敌军对峙，恩希欧迪斯在军工厂展开最后的筹备。",
+      "my_lines": [
+        "少说点话，你现在伤重。",
+        "博士和银灰先生一直有联络。听说谢拉格发生了天灾，博士猜到你们会遇到麻烦。",
+        "虽然现在实在腾不开手，但博士答应过，只要谢拉格有难，不会坐视不理。",
+        "我已经通知罗德岛增援，他们随后赶到。",
+        "不用担心，相信银灰先生已对局面有所掌控。"
+      ],
+      "total_lines_in_file": 6
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act46side/level_act46side_10_end.txt",
+      "plot_summary": "在幻境中告别耶拉冈德的恩雅爬上圣山顶峰，在祈祷之中最后一次以耶拉冈德的庇护驱散天灾。在恩希欧迪斯的计谋以及谢拉格众人的顽强抵抗下，开斯特选择退兵。",
+      "my_lines": [
+        "她需要紧急治疗，这里是否有更多的绷带？",
+        "她一人拖住了十七个“灰礼帽”的进攻......了不起。",
+        "敌人暂时撤退了，我的小队会接替她保卫这里。",
+        "我会坚持到完成任务为止。"
+      ],
+      "total_lines_in_file": 4
+    },
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_2/sandbox_2_xb2smy.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "哈哈！",
+        "有很多人都可以作证。"
+      ],
+      "total_lines_in_file": 2
+    }
+  ]
 }

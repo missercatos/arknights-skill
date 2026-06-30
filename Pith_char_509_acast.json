@@ -70,5 +70,152 @@
     }
   ],
   "personal_stories": [],
-  "voice_lines": []
+  "voice_lines": [],
+  "story_appearances": [
+    {
+      "category": "主线剧情",
+      "chapter": "第14章",
+      "file": "obt/main/level_main_14-17_end.txt",
+      "plot_summary": "博士离开那处神秘之地，却发现自己身处罗德岛，且身边环绕着未曾料想过的同伴。",
+      "my_lines": [
+        "我们会记得你的事迹和精湛的射术的，敬你。",
+        "少喝点，都说胡话了。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-04_beg.txt",
+      "plot_summary": "在执行本舰重要模块的秘密运输任务时，罗德岛遭遇了有预谋的袭击，但都被博士与精英干员携手化解。",
+      "my_lines": [
+        "你们的确准备了许多，但可惜应对源石技艺的手段还是捉襟见肘。",
+        "博士猜得对，有人泄露了我们行动的消息。",
+        "直觉？",
+        "临出发前突然更改计划，我担心......",
+        "需要同步到PRTS上告知同事吗？"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-10_end.txt",
+      "plot_summary": "本舰如同活过来一般，其结构开始无序变动，所有的通讯也被截断。凯尔希主动进入了曾安置博士的石棺寻求解围的办法，也为在舰干员的行动提供了支持。",
+      "my_lines": [
+        "就这么解决了？",
+        "通讯依旧被屏蔽。",
+        "不知道其他人的情况怎么样了。",
+        "......凯尔希？谢谢。",
+        "所有尚能战斗的罗德岛干员们，我是Pith。向我汇报你们目前的情况。"
+      ],
+      "total_lines_in_file": 7
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-12_end.txt",
+      "plot_summary": "凯尔希进入石棺之后，得到了意料之外的协助。她切断了自己与Mon3tr的联系，给予了Mon3tr自由，并重新恢复了在舰干员之间的联系。众人携手对抗暴走的PRTS。",
+      "my_lines": [
+        "你受了伤？",
+        "等到本舰停下来，还需要你们配合其他小队撤出本舰，在本舰周边区域建立更大的缓冲区。",
+        "记住，养精蓄锐。其他交给我们处理。",
+        "希望Sharp和Stormeye的任务也一切顺利......"
+      ],
+      "total_lines_in_file": 4
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-13_beg.txt",
+      "plot_summary": "Friston-3帮助解除了小车们失控的危机，而所有的精英干员也开始与博士会合。任务目标已确定——支援凯尔希，突入隐藏区域Abyss。",
+      "my_lines": [
+        "在。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-14_end.txt",
+      "plot_summary": "众人突破危机，从石棺中救下了虚弱的凯尔希，并且整队完毕，准备进入Abyss面对来自罗德岛内部的危机——失控的PRTS的核心组件，以及可能已苏醒的普瑞赛斯。",
+      "my_lines": [
+        "不能妄动，我们并不清楚凯尔希与石棺的情况。",
+        "根据当初的作战纪录，在切尔诺伯格时也有人接触了石棺，最后却产生了我们都没预料到的变故。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-15_beg.txt",
+      "plot_summary": "在众人跨入Abyss的瞬间，普瑞赛斯将博士、凯尔希、阿米娅转移到了甲板，并留下了其他人面对PRTS的攻击。",
+      "my_lines": [
+        "有阿米娅和凯尔希医生在，相信她们可以保护博士的安全。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-18_end.txt",
+      "plot_summary": "在博士和阿米娅的争取之下，所有在舰人员成功撤离，而本舰则被彻底封存在源石之中。一个月后，复苏的Mon3tr终于归来，而她的身边却不再有凯尔希。",
+      "my_lines": [
+        "我们会协助你们撤退。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "主线剧情",
+      "chapter": "主线",
+      "file": "obt/main/level_st_08-05.txt",
+      "plot_summary": "迷迭香在摆脱队员牺牲的痛苦；凯尔希向博士陈述阿米娅与迷迭香作为干员的意义；极境则发出了紧急讯号：乌萨斯军在核心城。",
+      "my_lines": [
+        "我不同意。",
+        "我不相信这样的施术者。凯尔希，作为术师，我以源石技艺为豪，以让源石技艺福泽他人为业。",
+        "Rosmontis绝非这样的术师。她源石技艺的本质绝非服务人类的那类。",
+        "你下不了手的话我来。",
+        "你和阿米娅太相信他们的未来了。我们一步踏错，只会让别的人永远失去未来。"
+      ],
+      "total_lines_in_file": 8
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act33side/level_act33side_05_end.txt",
+      "plot_summary": "内战期间，为了巴别塔的理想而战的特蕾西娅支持者在战争中大放异彩，战争的天平开始向巴别塔倾斜。",
+      "my_lines": [
+        "不必再从头复述了，Ace是被临时召集的，跟着Mantra行动就行。",
+        "继续吧，时不我待。",
+        "......峭壁上全是军事委员会的术师。一旦发现有武装力量，就直接扑灭在峡谷深处。",
+        "无论如何，军事委员会的行踪和目的都没有打算遮掩，都在预计之内。",
+        "但这些突然出现，袭击据点的雇佣兵，他们直接炸毁了交通要道和桥梁，还用源石炸药污染了山脉里的数处水源，毫无目的性。"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act33side/level_act33side_06_beg.txt",
+      "plot_summary": "博士逐渐熟悉了这片大地的战争规则，但是在一次特殊的救援行动中，博士第一次目睹了感染者崩解的惨状。",
+      "my_lines": [
+        "此刻的雪花冰晶已经近乎源石结晶，如果你足够细心，可以控制住它。",
+        "精确控制一片片雪花极为困难，但是在富源石环境，停滞一片暴雪，反而不该是难事。",
+        "艾丹，你没有好好听课。",
+        "我能撑十分钟。",
+        "退回谷底的草地上去，向南走，Scout会为你们指引一条路。"
+      ],
+      "total_lines_in_file": 12
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act33side/level_act33side_10_end.txt",
+      "plot_summary": "一切都已尘埃落定，凯尔希赶回巴别塔时已经无力回天。特蕾西娅借已经戴上黑王冠的阿米娅之口向凯尔希阐述了最后的理想。",
+      "my_lines": [
+        "......"
+      ],
+      "total_lines_in_file": 1
+    }
+  ]
 }

@@ -63,5 +63,59 @@
     "博士？您站在那里做什么......？嗯......您是说，听到我在与什么人交谈？......请不要开这样的玩笑，这里除了我之外，并没有其他什么人。",
     "......啊......抱歉，我走神了。",
     "博士，博士？抱歉，我知道不该打扰您休息......只是，刚刚这里太安静了，稍微有些令人不安。"
+  ],
+  "story_appearances": [
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act43side/level_act43side_st03.txt",
+      "plot_summary": "蒂比探望在狱中的莫伊拉。《杜邦夫人》的成片颇具争议，成为了电影节最受关注的作品。新酒神卢西恩在影院与剧作家和暮落见面，并准备踏上新的旅程。",
+      "my_lines": [
+        "卢西恩......",
+        "他这次是真的死了？",
+        "还是说，他依旧以某种方式活着？",
+        "......",
+        "卢西恩，听起来，你付出了很多代价......"
+      ],
+      "total_lines_in_file": 7
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_aprot2_1_1.txt",
+      "plot_summary": "暮落总是梦到过去的事。",
+      "my_lines": [
+        "——！",
+        "我......我在。",
+        "抱歉，我有点走神了......出什么事了吗？",
+        "......你听错了，这里只有我一个人。",
+        "没有其他人。"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "集成战略",
+      "chapter": "rougelike",
+      "file": "obt/roguelike/ro1/level_rogue1_ending_1.txt",
+      "plot_summary": "傀影的故事在此告一段落，可喜可贺。",
+      "my_lines": [
+        "你可给罗德岛添了个大麻烦，希望你现在想好了面对博士时的台词。",
+        "那就好。",
+        "......",
+        "话说回来，这里还真是令人熟悉啊。",
+        "舞台，剧场，每位演员梦寐以求的场所。"
+      ],
+      "total_lines_in_file": 10
+    },
+    {
+      "category": "集成战略",
+      "chapter": "rougelike",
+      "file": "obt/roguelike/ro1/level_rogue1_ending_3.txt",
+      "plot_summary": "戏剧开幕了。",
+      "my_lines": [
+        "这，你怎么会......"
+      ],
+      "total_lines_in_file": 1
+    }
   ]
 }

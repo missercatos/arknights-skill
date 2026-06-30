@@ -105,5 +105,49 @@
     "看到喜欢的，就要拍下，存起来。",
     "唔？",
     "“正在播放音乐——《D.D.D.热门串烧》。”"
+  ],
+  "story_appearances": [
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_fang_1_1.txt",
+      "plot_summary": "芬对自己首次作为正式作战小队队长出现的指挥上的失误十分懊恼。好在，她愿意向队员们寻求帮助，而大家乐于帮她化解内心的困惑。",
+      "my_lines": [
+        "......",
+        "不......",
+        "不会......",
+        "......",
+        "嗯......"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_folivo_1_1.txt",
+      "plot_summary": "一群热衷于艺术的贵族希望为稀音拍摄一部纪录片，然而拍摄队伍中坚持到最后的只有一个人。",
+      "my_lines": [
+        "......",
+        "......",
+        "......",
+        "......嗯。",
+        "......"
+      ],
+      "total_lines_in_file": 15
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_kroos_1_1.txt",
+      "plot_summary": "想要偷懒的人总会碰上意外。",
+      "my_lines": [
+        "嗯......",
+        "嗯......",
+        "......",
+        "......",
+        "嗯......"
+      ],
+      "total_lines_in_file": 18
+    }
   ]
 }

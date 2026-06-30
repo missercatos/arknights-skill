@@ -102,5 +102,44 @@
     "博士，让我去做，那些危险的任务吧。毕竟，我的能力......非常合适......",
     "欸欸欸？？？",
     "......被博士丢在一边不管了......这种感觉，我，好讨厌......"
+  ],
+  "story_appearances": [
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_1/sandbox_1_ending_1.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "那个......这就是全部的支援物资了，还请您详细核查这份清单。",
+        "是......是啊，还有一位先生正在搬运行李，稍后就到......"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_1/sandbox_1_ending_2.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "是......我、我赞同......他们会再次发动袭击......更加隐秘，更加难防。",
+        "我......一直在这里啊......",
+        "嗯......王酋军攻不下的地方，那些秘密杀手便会前去。"
+      ],
+      "total_lines_in_file": 3
+    },
+    {
+      "category": "其他剧情",
+      "chapter": "其他",
+      "file": "obt/sandboxperm/sandbox_1/sandbox_1_ending_3.txt",
+      "plot_summary": "",
+      "my_lines": [
+        "......时间过得真快......一转眼，又要去新的地方了。",
+        "我、我想去看......大家在一起......很好的，我很喜欢。",
+        "唔......呀，对、对不起！森蚺......",
+        "我......我......",
+        "不......没......我......"
+      ],
+      "total_lines_in_file": 7
+    }
   ]
 }

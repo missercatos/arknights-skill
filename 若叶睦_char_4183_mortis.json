@@ -102,5 +102,85 @@
     "嘿嘿……回应了大家的期待的感觉，还不坏。",
     "怎么了？",
     "你起来了？抱歉。"
+  ],
+  "story_appearances": [
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_04_end.txt",
+      "plot_summary": "在艾雅法拉的鼓励下，初华终于决定离开小岛，去寻找祥子。祥子也终于到达了初华的住处，然而两人却阴差阳错地错过了。",
+      "my_lines": [
+        "祥，你还好吗？",
+        "嗯，我在。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_05_beg.txt",
+      "plot_summary": "在睦的梦境中，保留着原本记忆的睦并没有选择离开梦境，而是决定在雷姆必拓做一个普通的小女孩。原本想要劝睦离开的祥子发现睦在这里生活得比以往任何时候都要幸福，内心纠结的她选择在睦表演时离席。",
+      "my_lines": [
+        "祥，来，喝下去。",
+        "那就好。这个给你，雷姆必拓到处都是沙尘，水袋和护目镜是必需的。",
+        "祥，你有点奇怪。是不是不舒服？",
+        "当然。",
+        "嗯，我全都记得。"
+      ],
+      "total_lines_in_file": 29
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_05_end.txt",
+      "plot_summary": "祥子从莫菲丝的口中得知睦的梦境并不简单。“睦”在这个梦里得到了自己想要的人生，为此拒绝了尝试拯救她的祥子，将其推下了山崖。",
+      "my_lines": [
+        "祥子，大家都在等着你呢。回去吧。",
+        "当然。",
+        "这里的一切，都是我们虚构出来的。",
+        "你，不属于我们。",
+        "祥......"
+      ],
+      "total_lines_in_file": 7
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_08_beg.txt",
+      "plot_summary": "祥子再次回到梦城堡中，直面莫菲丝。祥子毅然决定用音乐唤醒Ave{@nbs}Mujica的大家，而深陷梦境中的其他乐队成员们各自抓住了最后逃离梦境的机会。",
+      "my_lines": [
+        "不对......不对......不对！",
+        "吉他的声音......不对。",
+        "......不要。",
+        "除非你们告诉我，祥......她到底去哪了。",
+        "......说谎。"
+      ],
+      "total_lines_in_file": 14
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_08_end.txt",
+      "plot_summary": "一场酣畅淋漓的演奏后，Ave{@nbs}Mujica的大家终于回到了梦城堡。闹剧终将收场，Ave{@nbs}Mujica会作为Ave{@nbs}Mujica继续存在着。",
+      "my_lines": [
+        "祥，你现在笑得很开心。",
+        "想要练习的曲子还有很多。",
+        "嗯，还和以前一样顺手。"
+      ],
+      "total_lines_in_file": 3
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act45side/level_act45side_st01.txt",
+      "plot_summary": "祥子从奇怪的梦中苏醒，并与红豆讨论了梦的内容。之后，祥子和红豆一起执行外勤任务，由此认识了梦城堡的爱丽丝和贝娜。祥子从爱丽丝口中得知，她们要用梦城堡的“美梦”拯救爱丽丝的笔友。",
+      "my_lines": [
+        "我......没有......",
+        "若麦拉我去她的直播频道做客......我也没听到。",
+        "......",
+        "......祥，绿灯要结束了。"
+      ],
+      "total_lines_in_file": 4
+    }
   ]
 }

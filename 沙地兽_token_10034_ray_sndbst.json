@@ -49,5 +49,65 @@
   "trivia": [],
   "archive_records": [],
   "personal_stories": [],
-  "voice_lines": []
+  "voice_lines": [],
+  "story_appearances": [
+    {
+      "category": "主线剧情",
+      "chapter": "第15章",
+      "file": "obt/main/level_main_15-18_end.txt",
+      "plot_summary": "在博士和阿米娅的争取之下，所有在舰人员成功撤离，而本舰则被彻底封存在源石之中。一个月后，复苏的Mon3tr终于归来，而她的身边却不再有凯尔希。",
+      "my_lines": [
+        "（缓慢地舒展背扇）"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act16mini/level_act16mini_st05.txt",
+      "plot_summary": "身为探井人的莱伊常年在极其压抑的环境中工作，直到她的工作伙伴沙地兽死掉，她在恍惚中踏上了寻找巨兽的旅程。走出黑暗的回忆后，她看到了一片生机勃勃的野生沙地兽栖息地，并被沙地兽们带去了一处幽深的洞穴。",
+      "my_lines": [
+        "（缓慢地舒展背扇）",
+        "嗯，它是存在的。",
+        "去找你想找的东西。",
+        "不，只有我的话不行。",
+        "（警惕地刨起沙土）"
+      ],
+      "total_lines_in_file": 5
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act16mini/level_act16mini_st06.txt",
+      "plot_summary": "前往咧嘴谷的路被源石晶簇阻塞，一行人无功而返。主动申请加入罗德岛的莱伊讲出了自己童年与“巨兽”相遇的故事，而阿米娅从那个故事里看到了另一个人的回忆。",
+      "my_lines": [
+        "（嗅嗅）"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_cement_1_1.txt",
+      "plot_summary": "夏娜成为工程小队负责人之后的第一个任务，她选择了自己父亲失败的那项工程。",
+      "my_lines": [
+        "嗤嗤！！"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_ray_1_1.txt",
+      "plot_summary": "收到杰里和吉拉的邀请，莱伊来到了他们热情洋溢的大家庭。她只是想带着自己的小沙地兽出去玩一圈，但热心的亲戚们似乎并不这么想。",
+      "my_lines": [
+        "——嗷！",
+        "嗷，嗷——嗷！！",
+        "......吭......吭......",
+        "......吭......",
+        "嗷......"
+      ],
+      "total_lines_in_file": 12
+    }
+  ]
 }

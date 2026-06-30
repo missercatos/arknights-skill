@@ -111,5 +111,182 @@
     "如果不能通过优化提高性能的话，我会建议您进行重构。这样，数据通讯的效率会上升，白面鸮也会......Zzzz......",
     "发生错误。",
     "......系统进入睡眠模式。"
+  ],
+  "story_appearances": [
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_01_end.txt",
+      "plot_summary": "塞雷娅赶到，救下博士，三人赫然发现袭击他们的动力甲中无人操纵；城外，拓荒者们接到的却是斐尔迪南主任的强硬回复。",
+      "my_lines": [
+        "......",
+        "......",
+        "配置......发生错误......修改......电源计划模式......",
+        "唔......",
+        "......"
+      ],
+      "total_lines_in_file": 6
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_02_beg.txt",
+      "plot_summary": "借着白面鸮晕倒而进入基地的赫默一行人与拓荒者们接触，就在僵局即将被打破之际，众人遭到神秘生物的袭击。",
+      "my_lines": [
+        "唔......"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_02_end.txt",
+      "plot_summary": "神秘生物极难击退，众人束手无策，此时多萝西主动联络，将众人引至基地内部。",
+      "my_lines": [
+        "......"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_04_beg.txt",
+      "plot_summary": "酒吧里，霍尔海雅突然现身，阻止医生进一步吐露情报，博士等人追击，却再次遭遇动力甲的阻挠；城外，赫默发现埃琳娜偷偷记录实验数据，对这实验的目的产生了怀疑。",
+      "my_lines": [
+        "......"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_04_end.txt",
+      "plot_summary": "城中，塞雷娅正要将动力甲彻底击溃，千钧一发之际，博士出声阻止，从动力甲中救出了缪尔赛思；城外，一行人终于进入多萝西的实验室，拓荒者们却第一时间将弓弩对准多萝西。",
+      "my_lines": [
+        "......",
+        "......",
+        "......",
+        "——程序启动。",
+        "好黑啊......"
+      ],
+      "total_lines_in_file": 10
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_05_end.txt",
+      "plot_summary": "赫默终于知道了实验的真正目的，决心阻止多萝西。一行人艰难应战，白面鸮借着特殊的感受能力，带领大家找到了安睡中的失踪受试者。",
+      "my_lines": [
+        "疼......",
+        "星......星星......",
+        "......光。",
+        "星星......很亮......",
+        "在远方。"
+      ],
+      "total_lines_in_file": 7
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_06_beg.txt",
+      "plot_summary": "众人发现，操纵神秘生物的其实是受试者集体的意识，这让实验的真正目的显得更为可怖。塞雷娅推测出了斐尔迪南的野心，但几人多次尝试，仍未能与白面鸮同步。",
+      "my_lines": [
+        "桑尼......",
+        "请不要伤害弗兰克斯主任。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_06_end.txt",
+      "plot_summary": "拓荒者们与多萝西达成和解，多萝西也答应暂停实验，局势似乎正在好转，斐尔迪南却决定孤注一掷，让工作人员给拓荒者们注射递质。",
+      "my_lines": [
+        "......桑尼。",
+        "我们是自愿的。",
+        "......",
+        "信息。",
+        "我接收到了信息，不同于过去的信息。"
+      ],
+      "total_lines_in_file": 32
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_07_beg.txt",
+      "plot_summary": "接受了注射的拓荒者纷纷陷入昏迷，实验室内发出异响，前所未见的巨大几何体自其中闪现。实验已全面失控。",
+      "my_lines": [
+        "警告，流程与以往记录不符。",
+        "是的，防卫科的人正在飞速撤离基地。",
+        "赫默医生，接受过注射的拓荒者们全体陷入了昏迷。"
+      ],
+      "total_lines_in_file": 3
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_08_beg.txt",
+      "plot_summary": "博士给出白面鸮传递的情报，逼迫总辖插手干预实验；基地内，多萝西提出可以关闭系统，并主动注射了实验用的递质。",
+      "my_lines": [
+        "信号搜索中......",
+        "连接失败。",
+        "否定。",
+        "拆除紧急医疗环的风险等同于移除九号装置。",
+        "你需要支援，格雷伊干员。"
+      ],
+      "total_lines_in_file": 15
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act19side/level_act19side_08_end.txt",
+      "plot_summary": "梦境，道路，梦想，多萝西进入了受试者集体的意志，破坏了几何体的中枢，亲手摧毁了自己的造物。",
+      "my_lines": [
+        "缺乏可靠数据。",
+        "我曾经感受过它们，但我并未接受“递质”的注入。",
+        "一种推测是，九号装置对信号的敏感性令我接收到了部分信息的碎片。",
+        "......是情感。",
+        "语言是指令输入输出的规则，无法精确描述大脑皮层每一次细微的波动。"
+      ],
+      "total_lines_in_file": 17
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act7d5/level_act7d5_st02.txt",
+      "plot_summary": "白面鸮在写日记，她总是用日记记录下所有她不想忘记的、重要的事。\n只是现在，或许比起写字，她更想直接和那些她重视的人聊聊天。",
+      "my_lines": [
+        "是的。",
+        "没事。",
+        "下次也可以让我去。",
+        "嗯，那么，我先回去了。",
+        "我记得，应该是这本日记本......"
+      ],
+      "total_lines_in_file": 97
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_glassb_1_1.txt",
+      "plot_summary": "真理一反常态，为了装点自治团在美食节上的摊位全力以赴，让伙伴们吃了一惊。她为什么干劲十足？",
+      "my_lines": [
+        "非常美味。"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_plosis_1_1.txt",
+      "plot_summary": "无机质的声音，冷淡的表情，掩盖了白面鸮内心不为人知的秘密。",
+      "my_lines": [
+        "请继续部署您的棋子。",
+        "依据三个小时前的记录节点，目前的棋局比分是二比一。",
+        "如果按照三局两胜的棋局计算方式，您依然赢得了棋局，巡林者先生。",
+        "无法解读您这句话的实际表意。",
+        "明白。表意已确认。"
+      ],
+      "total_lines_in_file": 46
+    }
   ]
 }

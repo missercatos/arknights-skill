@@ -105,5 +105,119 @@
     "虽然还是不太明白博士讲的道理，但是总之，只处理掉博士认证过是坏人的家伙就没问题了吧？因为博士是好人呀。如果博士其实是坏人的话？不要吧，那我会很困扰啊。我，总不能......",
     "嗯？怎么啦？",
     "是该休息一下啦，博士。来来，睡这边，我去拿毯子。"
+  ],
+  "story_appearances": [
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act12side/level_act12side_02_beg.txt",
+      "plot_summary": "第一轮找赤金比赛一开始，鼠胆龙威队就遭到了其他队伍的围攻。",
+      "my_lines": [
+        "哈喽哈喽，大家好呀。",
+        "嗯......玩腻了就把你们都吃掉哦。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act12side/level_act12side_03_beg.txt",
+      "plot_summary": "比赛逐渐白热化，林雨霞发现了危险分子的踪迹，她没有进一步深入。\n另一边，陈为了帮助名为水月的选手，在巷子中与人大打出手。",
+      "my_lines": [
+        "嗯......有点麻烦。",
+        "摄像头这么多，万一动起手来下手太重就不妙了欸。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act12side/level_act12side_03_end.txt",
+      "plot_summary": "为了答谢陈，水月将自己的金块送给了陈。\n而后，陈与林雨霞继续搜索线索无果，最终顺利晋级。",
+      "my_lines": [
+        "谢谢你帮了我。",
+        "不过，你为什么要帮我呢？",
+        "这样啊。姐姐你是个好人呢。",
+        "既然这样，给。",
+        "嗯，我刚才就是想拿这个才被他们围住的。"
+      ],
+      "total_lines_in_file": 8
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act12side/level_act12side_05_end.txt",
+      "plot_summary": "陈林二人一走进武器店，店内就发生了爆炸，引得观众席和主持台惊呼。\n废墟中，两人冷静讨论后，解除危机。",
+      "my_lines": [
+        "咦......那边好像是陈姐姐她们去的方向。",
+        "还是过去看一看吧。"
+      ],
+      "total_lines_in_file": 2
+    },
+    {
+      "category": "活动剧情",
+      "chapter": "活动故事",
+      "file": "activities/act12side/level_act12side_st04.txt",
+      "plot_summary": "危机结束，夏日还在继续。而每个参与其中的人都有各自的思绪。",
+      "my_lines": [
+        "这座城市虽然还挺好的。",
+        "莱塔尼亚的歌剧，哥伦比亚的电影，还有玻利瓦尔的咖啡，之前想要体验的东西都体验到了。",
+        "不过，这座城市里的人还真是无聊，比赛过半就不想跟他们玩了。",
+        "要是早知道最后会变成这样，中途确认陈姐姐没事后应该和她一起上船的，这样应该能多帮上她的忙吧。",
+        "算啦，反正这座城市也差不多玩腻了，看一看陈姐姐她们会去哪里吧。"
+      ],
+      "total_lines_in_file": 6
+    },
+    {
+      "category": "干员密录",
+      "chapter": "个人故事",
+      "file": "obt/memory/story_mizuki_1_1.txt",
+      "plot_summary": "猎物和猎人，好人和坏人，同类和异类，没有人教过水月这些事。或许他的理解都只是一己之见，或许你的想法本只是一厢情愿。",
+      "my_lines": [
+        "啊，至于要谈论“家”，我应该还是有点发言权的。",
+        "毕竟在我很小的时候，我的家就被坏人毁了，被一群像你们这样掠夺他人的罪犯渣滓。",
+        "不就是为了在这里搞演出，从文化上让玻利瓦尔人对莱塔尼亚产生认同吗？",
+        "“这里的人衣食起居用的全是哥伦比亚人的东西，耳濡目染的都是莱塔尼亚人的文化。”",
+        "你们这种真正玻利瓦尔人的说辞，我早听腻啦。"
+      ],
+      "total_lines_in_file": 33
+    },
+    {
+      "category": "集成战略",
+      "chapter": "rougelike",
+      "file": "obt/roguelike/ro2/level_rogue2_ending_1.txt",
+      "plot_summary": "在与老主教交谈后，水月邀请海沫一起饱餐一顿。",
+      "my_lines": [
+        "西塞罗爷爷。",
+        "可回忆和歌唱呢？她看上去和以前一样喜爱歌唱。",
+        "变成那副样子，她只能发出些让自己害怕的杂音。",
+        "即使她变成现在这样，您也无动于衷吗？",
+        "......"
+      ],
+      "total_lines_in_file": 29
+    },
+    {
+      "category": "集成战略",
+      "chapter": "rougelike",
+      "file": "obt/roguelike/ro2/level_rogue2_ending_2.txt",
+      "plot_summary": "大静谧再度降临，最后的骑士迎向他绝无可能战胜的敌人。",
+      "my_lines": [
+        "呜呃......"
+      ],
+      "total_lines_in_file": 1
+    },
+    {
+      "category": "集成战略",
+      "chapter": "rougelike",
+      "file": "obt/roguelike/ro2/level_rogue2_ending_4.txt",
+      "plot_summary": "水月新生，海嗣飞升。",
+      "my_lines": [
+        "有你在旁边，这段日子也不算太无聊啦。",
+        "谢谢你。",
+        "......",
+        "那么，再会了。"
+      ],
+      "total_lines_in_file": 4
+    }
   ]
 }
